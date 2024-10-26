@@ -231,11 +231,11 @@ body {
     position: absolute;
     width: 100%;
 }
-.toggleLocationBlock #contact-part #contact-btn{
+.toggleLocationBlock #contact-part #toggle-contact-btn{
     border-radius: 0;
     width: 100%;
 }
-.toggleLocationBlock #contact-part #contact-btn i{
+.toggleLocationBlock #contact-part #toggle-contact-btn i{
     display:none;
 }
 
@@ -245,7 +245,7 @@ body {
     box-shadow: initial!important;
 }
 
-#contact-btn{
+#contact-btn, #toggle-contact-btn{
     display: inline-block;
     padding: 15px 30px;
     font-size: 13px;
@@ -262,7 +262,7 @@ body {
     cursor: pointer;
 }
 
-#contact-btn:hover{
+#contact-btn:hover, #toggle-contact-btn:hover{
     background-color: #003a50;
 }
 
@@ -307,6 +307,7 @@ body {
     transform: translateX(-50%); /* Centre horizontalement */
     z-index: 1000; /* Assure que le conteneur est au-dessus d'autres éléments */
     display: none;
+    min-width: 235px;
 }
 .mapboxgl-marker.hover {
     transform: scale(1.5);
