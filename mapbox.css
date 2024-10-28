@@ -287,10 +287,13 @@ body {
     text-transform: uppercase;
     background-color: #353333;
 }
-
+.location-block.active.temp-highlight-click, .location-block.active.temp-highlight-hover {
+    display: block!important;
+}
 .location-block.active {
     background-color: #e0f7fa;
     border-left: 5px solid #33abf8;
+    display: none!important;
 }
 .location-block:hover, .location-block.active:hover {
     cursor: pointer;
@@ -302,12 +305,13 @@ body {
 }
 .toggleLocationBlock {
     position: absolute;
-    top: 40px; /* Ajuste la distance depuis le bas */
+    top: 25px;
     left: 50%;
-    transform: translateX(-50%); /* Centre horizontalement */
-    z-index: 1000; /* Assure que le conteneur est au-dessus d'autres éléments */
+    transform: translateX(-50%);
+    z-index: 1000;
     display: none;
-    min-width: 235px;
+    max-width: 375px;
+    width: 100%;
 }
 .mapboxgl-marker.hover {
     transform: scale(1.5);
