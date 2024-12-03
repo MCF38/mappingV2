@@ -348,7 +348,7 @@
         "code": 47,
         "code_ohme_id": 2251799853008491,
         "name": "CHASLE Jean-Michel",
-        "position": "6.623563,46.376681",
+        "position": "6.629009,46.379095",
         "adresse": "182 impasse de la lanche 74500  ST PAUL EN CHABLAIS",
         "cp": "",
         "city": "",
@@ -1565,7 +1565,7 @@
     {
         "code": 254,
         "code_ohme_id": 2251799853008571,
-        "name": "jarriand",
+        "name": "Jarriand",
         "position": "5.839451,45.412611",
         "adresse": "1179 route du chateau, 38380 SAINT-PIERRE-D'ENTREMONT, France",
         "cp": "",
@@ -4501,7 +4501,7 @@
         "code": 739,
         "code_ohme_id": 2251799853008783,
         "name": "Hugo BLANQUIER",
-        "position": "2.816388,43.097773",
+        "position": "2.814484,43.099398",
         "adresse": "109 clos des Santolines - 11200 MONTSERET",
         "cp": "",
         "city": "",
@@ -6310,7 +6310,7 @@
         "code": 1004,
         "code_ohme_id": 2251799853008911,
         "name": "Patrice PARLANGE",
-        "position": "3.098574,45.760717",
+        "position": "3.080736,45.794914",
         "adresse": "148, bd Charcot 63000  CLERMONT FERRAND",
         "cp": "",
         "city": "",
@@ -8653,7 +8653,7 @@
     {
         "code": 1274,
         "code_ohme_id": 2251799853009076,
-        "name": "Frederic IVENS",
+        "name": "Ivens Frederic",
         "position": "6.079705,45.036838",
         "adresse": "Lieu dit la Balme 38142  AURIS-EN-OISANS",
         "cp": "",
@@ -8663,8 +8663,18 @@
         "site_internet": "https:\/\/www.legenduro.com ; https:\/\/www.facebook.com\/legenduro\/ ; https:\/\/www.instagram.com\/legenduro\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Gravel",
+            "Route",
+            "VTT",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Randonnée\/Balade",
+            "Stage",
+            "Voyage à vélo"
+        ]
     },
     {
         "code": 1278,
@@ -8998,7 +9008,7 @@
         "code": 1314,
         "code_ohme_id": 2251799853009102,
         "name": "Yohan JONEAU",
-        "position": "0.197414,47.96646",
+        "position": "0.216391,48.013846",
         "adresse": "10 Rue Montmartre",
         "cp": "72100",
         "city": "Le Mans",
@@ -10167,7 +10177,7 @@
         "code": 1416,
         "code_ohme_id": 2251799853009174,
         "name": "Antoine MARTOIA",
-        "position": "5.256179,43.440234",
+        "position": "6.485955,44.555456",
         "adresse": "La Clapiere - bâtiment les coquelicots 05200  EMBRUN",
         "cp": "",
         "city": "",
@@ -11487,7 +11497,7 @@
         "code": 1543,
         "code_ohme_id": 2251799853009268,
         "name": "Thomas BASTIEN",
-        "position": "7.283267,48.108887",
+        "position": "7.261147,48.139657",
         "adresse": "74 Rue du Vignoble 68240  KATZENTHAL",
         "cp": "",
         "city": "",
@@ -11833,7 +11843,7 @@
         "code": 1565,
         "code_ohme_id": 2251799853009288,
         "name": "Jean-Philippe LANGLOIS",
-        "position": "3.617151,44.387332",
+        "position": "6.777777,45.777777",
         "adresse": "Lieu-dit \"Le Cros\" 48400  LES BONDONS",
         "cp": "",
         "city": "",
@@ -12562,7 +12572,7 @@
         "code": 1628,
         "code_ohme_id": 2251799853009336,
         "name": "Amelie CACACE",
-        "position": "-1.473435,49.426716",
+        "position": "0.615496,42.816439",
         "adresse": "Le village - ancienne école 31110  ARTIGUE",
         "cp": "",
         "city": "",
@@ -14401,7 +14411,7 @@
     {
         "code": 1785,
         "code_ohme_id": 2251799853009466,
-        "name": "Hendrik LASMARIES",
+        "name": "Lasmaries Hendrik",
         "position": "5.751432,45.231479",
         "adresse": "21 Route de Chartreuse 38700  CORENC",
         "cp": "",
@@ -14411,8 +14421,18 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "BMX",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Randonnée\/Balade",
+            "Stage"
+        ]
     },
     {
         "code": 1786,
@@ -17243,7 +17263,7 @@
         "code": 2020,
         "code_ohme_id": 2251799853009667,
         "name": "Pierre VASSY",
-        "position": "5.063457,44.331397",
+        "position": "5.06383,44.33127",
         "adresse": "8 clos des oliviers - Rue du Ventoux 26110  VINSOBRES",
         "cp": "",
         "city": "",
@@ -19669,11 +19689,13 @@
         "cp": "",
         "city": "",
         "tel": "06 61 34 87 10",
-        "email": "spedgy@gmail.com",
+        "email": "peggy@bougemapoule.fr",
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Mobilité\/Remise en selle"
+        ],
         "prestation": []
     },
     {
@@ -20497,8 +20519,22 @@
         "site_internet": "https:\/\/www.flovelo.fr",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "FatBike",
+            "Gravel",
+            "Mobilité\/Remise en selle",
+            "VTT",
+            "VTT Descente",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Randonnée\/Balade",
+            "Séminaire",
+            "Stage"
+        ]
     },
     {
         "code": 2268,
@@ -21678,7 +21714,7 @@
         "code": 43,
         "code_ohme_id": 2251799851002627,
         "name": "Ecole MCF de Morzine",
-        "position": "4.117957,46.205567",
+        "position": "6.722199,46.191764",
         "adresse": "Ancey Jérémy - EFS Maison de la Montagne - immeuble cap neige",
         "cp": "74110",
         "city": "AVORIAZ",
@@ -22574,7 +22610,7 @@
         "code": 277,
         "code_ohme_id": 2251799858005000,
         "name": "Le Vélo de Dionysos",
-        "position": "0.197414,47.96646",
+        "position": "0.216391,48.013846",
         "adresse": "10 Rue Montmartre",
         "cp": "72100",
         "city": "Le Mans",
@@ -23108,38 +23144,6 @@
         "city": "GAREOULT",
         "tel": "06 70 37 38 64",
         "email": "dgaimard@wanadoo.fr",
-        "site_internet": "",
-        "country": "",
-        "ecole": false,
-        "discipline": [],
-        "prestation": []
-    },
-    {
-        "code": 360,
-        "code_ohme_id": 1125899959010916,
-        "name": "LOIZO RIDER Productions",
-        "position": "0.221494,44.518707",
-        "adresse": "",
-        "cp": "",
-        "city": "",
-        "tel": "",
-        "email": "loizorider@gmail.com",
-        "site_internet": "",
-        "country": "",
-        "ecole": false,
-        "discipline": [],
-        "prestation": []
-    },
-    {
-        "code": 361,
-        "code_ohme_id": 1125899959010917,
-        "name": "Agence IRWEGO",
-        "position": "6.577819,48.05267",
-        "adresse": "9 Impasse des Cencieux",
-        "cp": "88200",
-        "city": "SAINT NABORD",
-        "tel": "",
-        "email": "contact@irwego.com",
         "site_internet": "",
         "country": "",
         "ecole": false,
