@@ -6348,13 +6348,19 @@
         "adresse": "161 Rue du Général de Gaulle 97434  ST GILLES LES BAINS",
         "cp": "",
         "city": "",
-        "tel": "06 09 20 04 81",
+        "tel": "06 92 18 12 12",
         "email": "thierryamara@hotmail.fr",
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "VTT",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Randonnée\/Balade"
+        ]
     },
     {
         "code": 1008,
@@ -21076,7 +21082,7 @@
         "code_ohme_id": 2251799864400556,
         "name": "Lebrun Livio",
         "position": "2.241718,43.065425",
-        "adresse": "95 chemin de carliqui",
+        "adresse": "95 chemin de carliqui 11300 Limoux",
         "cp": "",
         "city": "",
         "tel": "07 68 73 00 69",
