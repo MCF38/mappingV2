@@ -5721,7 +5721,7 @@
         "code": 917,
         "code_ohme_id": 2251799853008871,
         "name": "Philippe HERAUD",
-        "position": "5.5933724,45.4885442",
+        "position": "5.5943348,45.4897293",
         "adresse": "Route du Mont Blanc, 70 impasse du Rutif 38620  MONTFERRAT",
         "cp": "",
         "city": "",
@@ -21571,6 +21571,51 @@
             "Randonnée\/Balade",
             "Stage"
         ]
+    },
+    {
+        "code": 2511,
+        "code_ohme_id": 1125899965078423,
+        "name": "JARROT Rémy",
+        "position": "5.9916864,47.2578751",
+        "adresse": "25 rue jean Simon Berthélémy 25000 Besançon",
+        "cp": "",
+        "city": "",
+        "tel": "07 86 43 77 37",
+        "email": "remy.jarrot@yahoo.fr",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [
+            "Gravel",
+            "Mobilité\/Remise en selle",
+            "Route",
+            "VTT"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Formation",
+            "Randonnée\/Balade",
+            "Séminaire",
+            "Stage",
+            "Voyage à vélo"
+        ]
+    },
+    {
+        "code": 2512,
+        "code_ohme_id": 2251799867080465,
+        "name": "Ulysse DIKOUMÉ-ALECHINSKY",
+        "position": "-1.5285676,47.1984925",
+        "adresse": "9 Rue de la Grèneraie",
+        "cp": "44230",
+        "city": "Saint-sébastien-sur-loire",
+        "tel": "07 62 37 30 84",
+        "email": "ulyssedikoumealechinsky@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
     },
     {
         "code": 2513,
