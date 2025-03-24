@@ -1599,7 +1599,9 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "BMX"
+        ],
         "prestation": []
     },
     {
@@ -2480,7 +2482,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -3515,7 +3522,9 @@
         "site_internet": "https:\/\/www.bcoq-academy.com\/la-b-coq-academy",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Route"
+        ],
         "prestation": []
     },
     {
@@ -5320,7 +5329,12 @@
         "site_internet": "https:\/\/www.wood-track.fr - www.ecole-mcf-luchon.fr - https:\/\/www.facebook.com\/Ecole-VTT-MCF-de-Luchon-Superbagn%C3%A8res-2152944244952386\/?eid=ARA0TiNEDnE6aymHShH387bxu_pAowwizMGqYH8_7MyNBCzhMXstVzVaqLQ-WVHUe5-TLgdjpmqIt5JS",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -5538,7 +5552,12 @@
         "site_internet": "https:\/\/riderscamp.fr",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -5577,8 +5596,8 @@
         "code": 891,
         "code_ohme_id": 2251799853008857,
         "name": "Thierry ROULLAND",
-        "position": "6.2469072,44.674015",
-        "adresse": "Le Villaret, 05260 Saint-Jean-Saint-Nicolas, France",
+        "position": "6.2283243,44.666186",
+        "adresse": "1 rue de la charriere, 05260 Saint-Jean-Saint-Nicolas, France",
         "cp": "",
         "city": "",
         "tel": "06 84 17 31 70",
@@ -5618,7 +5637,12 @@
         "site_internet": "http:\/\/www.dorianzuretti.com\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -5722,7 +5746,9 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "BMX"
+        ],
         "prestation": []
     },
     {
@@ -6295,7 +6321,9 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Route"
+        ],
         "prestation": []
     },
     {
@@ -6525,7 +6553,12 @@
         "site_internet": "https:\/\/www.facebook.com\/VELORUN974",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -7216,7 +7249,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -7264,7 +7302,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -7368,7 +7411,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -7423,7 +7471,7 @@
         "code": 1126,
         "code_ohme_id": 2251799853008985,
         "name": "Sebastien BEDU",
-        "position": "6.9488037,45.4935793",
+        "position": "6.9008107,45.4664753",
         "adresse": "Res Tour du Lac - Apt 30 73320  TIGNES",
         "cp": "",
         "city": "",
@@ -7732,7 +7780,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -8326,7 +8379,12 @@
         "site_internet": "https:\/\/forezbikeschool.fr - https:\/\/https:\/\/www.facebook.com\/FOREZ-BIKE-School-1469821053345823 - https:\/\/https:\/\/www.instagram.com\/forezbikeschool\/?hl=fr",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -8634,7 +8692,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -8666,7 +8729,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -8844,7 +8912,9 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Route"
+        ],
         "prestation": []
     },
     {
@@ -9004,7 +9074,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -9020,7 +9095,12 @@
         "site_internet": "https:\/\/www.stride-indoorbikepark.fr",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -9084,7 +9164,9 @@
         "site_internet": "https:\/\/www.facebook.com\/sebcoach974",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "BMX"
+        ],
         "prestation": []
     },
     {
@@ -9208,7 +9290,12 @@
         "site_internet": "https:\/\/baronniesbike.com",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -9224,7 +9311,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -9361,7 +9453,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -9480,7 +9577,7 @@
         "code": 1361,
         "code_ohme_id": 2251799853009131,
         "name": "Julien TEULIERES",
-        "position": "1.598514,44.3884619",
+        "position": "1.574473,44.410709",
         "adresse": "Les fournets 46240  CREMPS",
         "cp": "",
         "city": "",
@@ -9770,7 +9867,12 @@
         "site_internet": "https:\/\/www.73tracks.com - https:\/\/73Tracks bikeschool",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -10266,7 +10368,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -10404,7 +10511,12 @@
         "site_internet": "https:\/\/horizons-jura.fr\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -10508,7 +10620,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -10679,7 +10796,12 @@
         "site_internet": "http:\/\/bikementor.fr\/ - https:\/\/theopoudret.wixsite.com\/theopoudret",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -10814,7 +10936,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -11140,7 +11267,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -11341,7 +11473,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -11387,7 +11524,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -11735,7 +11877,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -11833,8 +11980,7 @@
         "ecole": false,
         "discipline": [
             "VTT",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": [
             "Cours particuliers",
@@ -11954,7 +12100,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -12050,7 +12201,12 @@
         "site_internet": "https:\/\/www.facebook.com\/Bike.N.Ride.Pyrenees\/?modal=admin_todo_tour",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -12120,8 +12276,7 @@
             "Mobilité\/Remise en selle",
             "Route",
             "VTT",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": [
             "Cours particuliers",
@@ -12212,7 +12367,12 @@
         "site_internet": "https:\/\/www.facebook.com\/amelie.tissot.545 - https:\/\/www.instagram.com\/amelietissot\/?hl=fr",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -12312,7 +12472,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -12657,7 +12822,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -12721,7 +12891,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -12769,7 +12944,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -12891,7 +13071,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -12911,8 +13096,7 @@
             "Gravel",
             "Mobilité\/Remise en selle",
             "VTT",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": [
             "Cours particuliers",
@@ -13115,7 +13299,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -13312,7 +13501,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -13328,7 +13522,12 @@
         "site_internet": "https:\/\/goupilaventure - https:\/\/goupilaventure",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -13704,7 +13903,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -13830,7 +14034,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -13862,7 +14071,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -13878,7 +14092,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -13958,7 +14177,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14016,7 +14240,9 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "BMX"
+        ],
         "prestation": []
     },
     {
@@ -14048,7 +14274,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14112,7 +14343,12 @@
         "site_internet": "https:\/\/wat.bike - https:\/\/www.facebook.com\/watbikeacademy\/ - https:\/\/www.instagram.com\/wat.bike\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14144,7 +14380,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14160,7 +14401,9 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "BMX"
+        ],
         "prestation": []
     },
     {
@@ -14284,7 +14527,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14300,7 +14548,9 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Route"
+        ],
         "prestation": []
     },
     {
@@ -14332,7 +14582,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14348,7 +14603,12 @@
         "site_internet": "https:\/\/www.vttsensation.com - https:\/\/www.facebook.com\/VTTsensation\/ - https:\/\/www.instagram.com\/vttsensation\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14392,7 +14652,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14440,7 +14705,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14456,7 +14726,12 @@
         "site_internet": "https:\/\/www.jodelapcoaching.com\/ - https:\/\/www.facebook.com\/jodelapcoaching - https:\/\/www.instagram.com\/jodelapcoaching\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14506,7 +14781,12 @@
         "site_internet": "https:\/\/www.hey-wattsup.com",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14655,7 +14935,12 @@
         "site_internet": "https:\/\/www.facebook.com\/florent.cellier.9",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14745,7 +15030,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14793,7 +15083,12 @@
         "site_internet": "https:\/\/mickael-brunello-coaching.business.site\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": [
             "Cours particuliers",
             "Format Club",
@@ -14816,7 +15111,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14848,7 +15148,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14880,7 +15185,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -14986,7 +15296,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15018,7 +15333,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15034,7 +15354,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15075,7 +15400,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15091,7 +15421,12 @@
         "site_internet": "https:\/\/www.instagram.com\/mael_o\/?hl=fr",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15150,7 +15485,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15166,7 +15506,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15182,7 +15527,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15198,7 +15548,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15214,7 +15569,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15230,7 +15590,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15262,7 +15627,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15321,7 +15691,9 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Route"
+        ],
         "prestation": []
     },
     {
@@ -15337,7 +15709,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15353,7 +15730,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15385,7 +15767,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15417,7 +15804,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15449,7 +15841,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15513,7 +15910,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15529,7 +15931,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15694,7 +16101,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15710,7 +16122,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -15994,7 +16411,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16126,7 +16548,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16223,7 +16650,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16333,7 +16765,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16381,7 +16818,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16397,7 +16839,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16445,7 +16892,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16461,7 +16913,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16477,7 +16934,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16509,7 +16971,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16547,7 +17014,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16563,7 +17035,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16591,11 +17068,16 @@
         "cp": "",
         "city": "",
         "tel": "07 82 76 57 04",
-        "email": "theo2003degaube@gmail.com",
+        "email": "tmsportcoaching@gmail.com",
         "site_internet": "https:\/\/www.facebook.com\/theo.mathieu.10 - https:\/\/www.instagram.com\/theo_mathieu04\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16735,7 +17217,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16751,7 +17238,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -16857,7 +17349,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17025,8 +17522,7 @@
             "Gravel",
             "Route",
             "VTT",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": [
             "Cours particuliers",
@@ -17049,7 +17545,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17137,7 +17638,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17153,7 +17659,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17242,7 +17753,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17329,7 +17845,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17345,7 +17866,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17361,7 +17887,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17377,7 +17908,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17393,7 +17929,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17409,7 +17950,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17469,7 +18015,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": [
             "Cours particuliers",
             "Format Club",
@@ -17547,7 +18098,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17599,7 +18155,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17615,7 +18176,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17631,7 +18197,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17647,7 +18218,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17663,7 +18239,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17679,7 +18260,12 @@
         "site_internet": "https:\/\/rocknride-queyras.com\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17695,7 +18281,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17759,7 +18350,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17866,7 +18462,12 @@
         "site_internet": "https:\/\/contactroule2sourc.wixsite.com\/roule2source",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17898,7 +18499,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -17930,7 +18536,9 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Route"
+        ],
         "prestation": []
     },
     {
@@ -18099,7 +18707,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -18147,7 +18760,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -18246,7 +18864,12 @@
         "site_internet": "https:\/\/instagram.com\/flowgroh?igshid=YmMyMTA2M2Y=",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -18342,7 +18965,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -18536,7 +19164,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -18584,7 +19217,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -18701,7 +19339,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -18865,7 +19508,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -18935,7 +19583,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -18996,7 +19649,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -19012,7 +19670,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -19028,7 +19691,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -19044,7 +19712,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -19208,7 +19881,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -19424,7 +20102,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -19440,7 +20123,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -19529,7 +20217,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -19545,7 +20238,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -19638,9 +20336,7 @@
             "Mobilité\/Remise en selle",
             "Route",
             "VTT",
-            "VTT Descente",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": [
             "Cours particuliers",
@@ -19710,7 +20406,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -19774,7 +20475,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -19938,7 +20644,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -20016,7 +20727,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -20134,7 +20850,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -20217,8 +20938,7 @@
         "discipline": [
             "BMX",
             "VTT",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": [
             "Cours particuliers",
@@ -20239,7 +20959,9 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Route"
+        ],
         "prestation": []
     },
     {
@@ -20255,7 +20977,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -20271,7 +20998,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -20287,7 +21019,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -20309,7 +21046,7 @@
     {
         "code": 2228,
         "code_ohme_id": 2251799853009869,
-        "name": "Olivier GIROD",
+        "name": "GIROD Olivier",
         "position": "5.842877,46.516839",
         "adresse": "16 Les Bouchets - Prénovel 39150 NANCHEZ",
         "cp": "",
@@ -20319,7 +21056,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -20417,7 +21159,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -20481,7 +21228,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -20497,7 +21249,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -20769,7 +21526,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -20817,8 +21579,7 @@
         "ecole": false,
         "discipline": [
             "Mobilité\/Remise en selle",
-            "VTT",
-            "VTT Enduro"
+            "VTT"
         ],
         "prestation": [
             "Cours particuliers",
@@ -20896,8 +21657,7 @@
             "Mobilité\/Remise en selle",
             "Route",
             "VTT",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": [
             "Cours particuliers",
@@ -20945,7 +21705,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -21080,7 +21845,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -21112,7 +21882,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -21165,9 +21940,7 @@
             "Mobilité\/Remise en selle",
             "Route",
             "VTT",
-            "VTT Descente",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": [
             "Cours particuliers",
@@ -21225,8 +21998,7 @@
         "discipline": [
             "Gravel",
             "Mobilité\/Remise en selle",
-            "VTT",
-            "VTT Enduro"
+            "VTT"
         ],
         "prestation": [
             "Cours particuliers",
@@ -21295,7 +22067,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -21327,7 +22104,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -21625,9 +22407,7 @@
         "discipline": [
             "Gravel",
             "Mobilité\/Remise en selle",
-            "Route",
-            "VTT",
-            "VTT Électrique"
+            "Route"
         ],
         "prestation": [
             "Cours particuliers",
@@ -21680,7 +22460,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -21746,6 +22531,22 @@
         ]
     },
     {
+        "code": 2521,
+        "code_ohme_id": 2251799867115477,
+        "name": "Samantha HADDAD",
+        "position": "6.4349357,48.1310339",
+        "adresse": "49 rue de la viage",
+        "cp": "88000",
+        "city": "EPINAL",
+        "tel": "06 64 27 54 12",
+        "email": "samanthahaddad11@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
         "code": 2522,
         "code_ohme_id": 2251799867121076,
         "name": "Romain FIGORITO",
@@ -21774,8 +22575,77 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
+        "prestation": []
+    },
+    {
+        "code": 2524,
+        "code_ohme_id": 1125899965131691,
+        "name": "Maxime LORET",
+        "position": "6.118868,45.910791",
+        "adresse": "39 avenue des romains",
+        "cp": "74000",
+        "city": "Annecy",
+        "tel": null,
+        "email": "maxime.loret17@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
+        "prestation": []
+    },
+    {
+        "code": 2525,
+        "code_ohme_id": 2251799867136857,
+        "name": "Jeremy GODEL",
+        "position": "-2.278449,47.2421",
+        "adresse": "6 boulevard Jules Dumont d urville",
+        "cp": "44600",
+        "city": "Saint nazaire",
+        "tel": "06 60 98 39 65",
+        "email": "jerem.godel@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
         "discipline": [],
         "prestation": []
+    },
+    {
+        "code": 2526,
+        "code_ohme_id": 1125899965144338,
+        "name": "MOURIER Noémie",
+        "position": "6.3416753,45.8045089",
+        "adresse": "192 ROUTE DE SURFATTIER",
+        "cp": "74230",
+        "city": "SERRAVAL",
+        "tel": "06 15 84 35 34",
+        "email": "noemie.mourier@gmail.com",
+        "site_internet": "https:\/\/www.aureliebaud.fr\/",
+        "country": "France",
+        "ecole": false,
+        "discipline": [
+            "VTT",
+            "VTT Descente",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Randonnée\/Balade",
+            "Séminaire",
+            "Stage"
+        ]
     },
     {
         "code": 1,
