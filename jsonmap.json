@@ -5771,7 +5771,7 @@
         "code": 917,
         "code_ohme_id": 2251799853008871,
         "name": "Philippe HERAUD",
-        "position": "5.5943348,45.4897293",
+        "position": "5.5933724,45.4885442",
         "adresse": "Route du Mont Blanc, 70 impasse du Rutif 38620  MONTFERRAT",
         "cp": "",
         "city": "",
@@ -14384,8 +14384,8 @@
         "code": 1754,
         "code_ohme_id": 2251799853009441,
         "name": "Maxime DELAMARE",
-        "position": "5.5859733,45.1241705",
-        "adresse": "54 allée des érables 38250  LANS EN VERCORS",
+        "position": "0.1483346,43.0640525",
+        "adresse": "7 RUE DE L'HORLOGE",
         "cp": "",
         "city": "",
         "tel": "07 80 54 98 27",
@@ -14394,12 +14394,19 @@
         "country": "France",
         "ecole": false,
         "discipline": [
-            "Trial",
+            "Gravel",
+            "Mobilité\/Remise en selle",
             "VTT",
             "VTT Descente",
+            "VTT Électrique",
             "VTT Enduro"
         ],
-        "prestation": []
+        "prestation": [
+            "Cours particuliers",
+            "Randonnée\/Balade",
+            "Séminaire",
+            "Voyage à vélo"
+        ]
     },
     {
         "code": 1755,
@@ -18198,27 +18205,6 @@
         "prestation": []
     },
     {
-        "code": 2030,
-        "code_ohme_id": 2251799853009675,
-        "name": "Cédric MONPERT",
-        "position": "5.7470263,45.1837521",
-        "adresse": "29 Chemin de la Blanchisserie 38100  GRENOBLE",
-        "cp": "",
-        "city": "",
-        "tel": "06 35 46 85 90",
-        "email": "monpert.cedric@gmail.com",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [
-            "Trial",
-            "VTT",
-            "VTT Descente",
-            "VTT Enduro"
-        ],
-        "prestation": []
-    },
-    {
         "code": 2031,
         "code_ohme_id": 2251799853009676,
         "name": "Ugo BAILLY",
@@ -20648,8 +20634,8 @@
         "code": 2213,
         "code_ohme_id": 2251799853009840,
         "name": "Cindy BOUCHET",
-        "position": "5.925445,44.368388",
-        "adresse": "16 Impasse des Pommiers 05300 VENTAVON",
+        "position": "6.769548,45.618598",
+        "adresse": "73700 BOURG SAINT MAURICE (SAVOIE)",
         "cp": "",
         "city": "",
         "tel": "06 67 61 90 77",
@@ -21581,7 +21567,7 @@
         "code": 2268,
         "code_ohme_id": 1125899957043219,
         "name": "Emmy VANNSON",
-        "position": "0.5179205,42.8527214",
+        "position": "0.599212,42.824893",
         "adresse": "28 le village 31110 GARIN",
         "cp": "",
         "city": "",
@@ -22552,18 +22538,29 @@
     {
         "code": 2521,
         "code_ohme_id": 2251799867115477,
-        "name": "Samantha HADDAD",
-        "position": "6.4349357,48.1310339",
-        "adresse": "49 rue de la viage",
-        "cp": "88000",
-        "city": "EPINAL",
-        "tel": "06 64 27 54 12",
-        "email": "samanthahaddad11@gmail.com",
-        "site_internet": "",
+        "name": "HADDAD Samantha 100 Détours",
+        "position": "6.449403,48.172402",
+        "adresse": "Epinal",
+        "cp": "",
+        "city": "",
+        "tel": "07 63 85 79 43",
+        "email": "contact@100detours.fr",
+        "site_internet": "https:\/\/www.100detours.fr",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Gravel",
+            "Mobilité\/Remise en selle",
+            "VTT",
+            "VTT Électrique"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Formation",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 2522,
@@ -22621,22 +22618,6 @@
             "VTT Descente",
             "VTT Enduro"
         ],
-        "prestation": []
-    },
-    {
-        "code": 2525,
-        "code_ohme_id": 2251799867136857,
-        "name": "Jeremy GODEL",
-        "position": "-2.278449,47.2421",
-        "adresse": "6 boulevard Jules Dumont d urville",
-        "cp": "44600",
-        "city": "Saint nazaire",
-        "tel": "06 60 98 39 65",
-        "email": "jerem.godel@gmail.com",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [],
         "prestation": []
     },
     {
@@ -22699,6 +22680,22 @@
         "prestation": []
     },
     {
+        "code": 604,
+        "code_ohme_id": 1125899965208230,
+        "name": "Jeremy GODEL",
+        "position": "-2.278449,47.2421",
+        "adresse": "6 boulevard Jules Dumont d urville",
+        "cp": "44600",
+        "city": "Saint nazaire",
+        "tel": "06 60 98 39 65",
+        "email": "jerem.godel@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
         "code": 1,
         "code_ohme_id": 2251799851002585,
         "name": "Ecole MCF des Gêts",
@@ -22718,7 +22715,7 @@
         "code": 2,
         "code_ohme_id": 2251799851002586,
         "name": "Ecole MCF des Arcs",
-        "position": "6.778969,45.5741495",
+        "position": "6.7781951,45.5726744",
         "adresse": "CHALET ESF ARC 1800 - Immeuble les tournavelles",
         "cp": "73700",
         "city": "ARC 1800",
