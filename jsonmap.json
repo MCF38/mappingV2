@@ -1008,18 +1008,28 @@
     {
         "code": 134,
         "code_ohme_id": 2251799853008530,
-        "name": "Benjamin MIDENA",
+        "name": "Sport Nature Ardèche",
         "position": "4.6165958,44.3952743",
         "adresse": "Les Prés - 1161 route de St Remèze 07700  GRAS",
         "cp": "",
         "city": "",
-        "tel": "07 80 36 22 72",
+        "tel": "06 50 41 48 68",
         "email": "contact@sport-nature-ardeche.fr",
         "site_internet": "https:\/\/www.sport-nature-ardeche.fr - https:\/\/www.facebook.com\/sportnatureardeche - https:\/\/www.instagram.com\/sport_nature_ardeche\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "FatBike",
+            "Gravel",
+            "Mobilité\/Remise en selle",
+            "Route"
+        ],
+        "prestation": [
+            "Format Club",
+            "Formation",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 139,
@@ -11832,7 +11842,7 @@
         "code": 1554,
         "code_ohme_id": 2251799853009278,
         "name": "BIKESKOOL 71",
-        "position": "4.8293535,46.3079587",
+        "position": "4.8274692,46.3280068",
         "adresse": "MACON - CLUNY",
         "cp": "",
         "city": "",
@@ -21909,7 +21919,7 @@
         "code": 2372,
         "code_ohme_id": 2251799861149192,
         "name": "Jean Luc DURGUEIL",
-        "position": "-1.3855161,43.1082034",
+        "position": "-1.3452343,43.1871625",
         "adresse": "974 Irubeko Bidea",
         "cp": "64430",
         "city": "St Étienne De Baigorry",
