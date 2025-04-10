@@ -1067,13 +1067,13 @@
         "code": 159,
         "code_ohme_id": 2251799853008535,
         "name": "BOGGERO Jochen - Coeur de Belledonne",
-        "position": "6.0737174,45.3928162",
-        "adresse": "33 rue des Thermes 38580 Allevard",
+        "position": "6.0744234,45.3930222",
+        "adresse": "7 RUE CHARAMIL 38580 Allevard",
         "cp": "",
         "city": "",
         "tel": "06 27 00 59 44",
         "email": "coeurdebelledonne@gmail.com",
-        "site_internet": "https:\/\/coeurdebelledonne.com",
+        "site_internet": "https:\/\/www.coeurdebelledonne.com",
         "country": "France",
         "ecole": false,
         "discipline": [
@@ -4467,9 +4467,9 @@
     {
         "code": 725,
         "code_ohme_id": 2251799853008778,
-        "name": "Vianney POREE",
+        "name": "Pyrenees plaisir Vianney Porée",
         "position": "-0.660911,43.101318",
-        "adresse": "3 Lotissement Peruilhet, 64570 ISSOR, France",
+        "adresse": "270 route de Talousec, 64570 ISSOR, France",
         "cp": "",
         "city": "",
         "tel": "06 66 52 97 88",
@@ -4477,8 +4477,16 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "VTT",
+            "VTT Descente",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Stage"
+        ]
     },
     {
         "code": 726,
@@ -5081,7 +5089,7 @@
     {
         "code": 814,
         "code_ohme_id": 2251799853008819,
-        "name": "Arnaud VANDEMEULEBROEKE",
+        "name": "Vandemeulebroeke Arnaud",
         "position": "3.5180359,50.4805302",
         "adresse": "48 Rue Pierre Joseph Lemer 59199  HERGNIES",
         "cp": "",
@@ -5091,8 +5099,18 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Mobilité\/Remise en selle",
+            "Route",
+            "VTT"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Formation",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 815,
@@ -5781,7 +5799,7 @@
         "code": 917,
         "code_ohme_id": 2251799853008871,
         "name": "Philippe HERAUD",
-        "position": "5.5933724,45.4885442",
+        "position": "5.5943348,45.4897293",
         "adresse": "Route du Mont Blanc, 70 impasse du Rutif 38620  MONTFERRAT",
         "cp": "",
         "city": "",
@@ -7100,18 +7118,21 @@
     {
         "code": 1106,
         "code_ohme_id": 2251799853008962,
-        "name": "Francoisxavier MONTECATTINI",
+        "name": "Francois Xavier MONTECATTINI",
         "position": "9.165532,42.594634",
-        "adresse": "U Ghjassu 20218  URTACA",
+        "adresse": "U chjassu 20218  URTACA",
         "cp": "",
         "city": "",
         "tel": "06 09 98 76 98",
-        "email": "vevem@orange.fr",
+        "email": "fxmontecattini@wanadoo.fr",
         "site_internet": "",
         "country": "France",
         "ecole": false,
         "discipline": [],
-        "prestation": []
+        "prestation": [
+            "Cours particuliers",
+            "Randonnée\/Balade"
+        ]
     },
     {
         "code": 1108,
@@ -11232,7 +11253,7 @@
         "code": 1497,
         "code_ohme_id": 2251799853009233,
         "name": "Romain TABOURET",
-        "position": "6.5933,45.4457",
+        "position": "6.59252,45.44575",
         "adresse": "La Perrière - St Jean 73120  COURCHEVEL",
         "cp": "",
         "city": "",
@@ -15772,7 +15793,7 @@
         "code": 1855,
         "code_ohme_id": 2251799853009529,
         "name": "Alexandre RENAULT",
-        "position": "1.703832,44.159847",
+        "position": "1.7563014,44.1512193",
         "adresse": "lieu-dit Cadenne 82140  SAINT-ANTONIN-NOBLE-VAL",
         "cp": "",
         "city": "",
@@ -22265,7 +22286,7 @@
         "code": 2489,
         "code_ohme_id": 2251799866232512,
         "name": "Lydiane TIREL FOURNAUX",
-        "position": "4.6160291,45.3218655",
+        "position": "4.5606934,45.2967667",
         "adresse": "7 route de st julien",
         "cp": "42220",
         "city": "Bourg argental",
@@ -22706,6 +22727,69 @@
         "prestation": []
     },
     {
+        "code": 2529,
+        "code_ohme_id": 1125899965215886,
+        "name": "JOSEPH Nicolas - UNUSUAL RIDE",
+        "position": "4.9454803,43.6936638",
+        "adresse": "AUREILLE",
+        "cp": "",
+        "city": "",
+        "tel": "06 24 48 46 76",
+        "email": "hello@unusual-ride.com",
+        "site_internet": "https:\/\/www.unusual-ride.com",
+        "country": "France",
+        "ecole": false,
+        "discipline": [
+            "FatBike",
+            "Gravel",
+            "Mobilité\/Remise en selle",
+            "Route",
+            "VTT",
+            "VTT Électrique"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Formation",
+            "Randonnée\/Balade",
+            "Séminaire",
+            "Stage",
+            "Voyage à vélo"
+        ]
+    },
+    {
+        "code": 1900,
+        "code_ohme_id": 1125899965216661,
+        "name": "Jordanne COUDERC",
+        "position": "2.8676656,45.1114977",
+        "adresse": "24 Avenue des 12 et 24 Juin 1944",
+        "cp": "15300",
+        "city": "MURAT",
+        "tel": "06 30 10 85 76",
+        "email": "jordanne.couderc@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2530,
+        "code_ohme_id": 1125899965221943,
+        "name": "Loan CHENEVAL",
+        "position": "6.0313079,46.3104301",
+        "adresse": "163 rue de la pierre",
+        "cp": "01170",
+        "city": "echenevex",
+        "tel": "07 82 19 09 10",
+        "email": "cheneval.loan@icloud.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
         "code": 1,
         "code_ohme_id": 2251799851002585,
         "name": "Ecole MCF des Gêts",
@@ -22762,7 +22846,7 @@
         "cp": "73550",
         "city": "MERIBEL",
         "tel": "",
-        "email": "al.bastien74@wanadoo.fr",
+        "email": "al.bastien74@gmail.com",
         "site_internet": "https:\/\/www.fastridingpeople.com",
         "country": "",
         "ecole": true,
