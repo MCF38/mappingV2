@@ -101,7 +101,7 @@
         "code": 12,
         "code_ohme_id": 2251799853008475,
         "name": "Fabrice CROUZET",
-        "position": "5.0892422,44.7175672",
+        "position": "1.6760691,44.5379358",
         "adresse": "110 lot le Somme Longe 26400  MIRABEL ET BLACONS",
         "cp": "",
         "city": "",
@@ -2227,7 +2227,7 @@
         "code": 365,
         "code_ohme_id": 2251799853008619,
         "name": "Dominique CADENAT",
-        "position": "3.2045705,43.4982293",
+        "position": "3.1972652,43.4970623",
         "adresse": "La Grange du Cade - Prés st Martin d'Agel 34480  MAGALAS",
         "cp": "",
         "city": "",
@@ -5799,7 +5799,7 @@
         "code": 917,
         "code_ohme_id": 2251799853008871,
         "name": "Philippe HERAUD",
-        "position": "5.5943348,45.4897293",
+        "position": "5.5933724,45.4885442",
         "adresse": "Route du Mont Blanc, 70 impasse du Rutif 38620  MONTFERRAT",
         "cp": "",
         "city": "",
@@ -6174,8 +6174,8 @@
         "code": 971,
         "code_ohme_id": 2251799853008898,
         "name": "Titouan VILLENEUVE",
-        "position": "5.3106121,45.1562904",
-        "adresse": "13 Rue Ferdinand Brun 38160 ST MARCELLIN",
+        "position": "5.2481807,45.0620515",
+        "adresse": "73 montée du docteur Eynard",
         "cp": "",
         "city": "",
         "tel": "06 86 90 34 69",
@@ -6183,8 +6183,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "BMX"
+        ],
+        "prestation": [
+            "Format Club"
+        ]
     },
     {
         "code": 972,
@@ -9426,18 +9430,30 @@
     {
         "code": 1344,
         "code_ohme_id": 2251799853009120,
-        "name": "Melwin LHAUTE",
+        "name": "LHAUTE Melwin ",
         "position": "5.8598997,45.2155276",
         "adresse": "4 place Paul Eluard 38420 Le Versoud",
         "cp": "",
         "city": "",
         "tel": "06 44 93 93 65",
         "email": "melwin.lhaute@gmail.com",
-        "site_internet": "http:\/\/www.melwin-lhaute.fr\/",
+        "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Formation",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 1345,
@@ -12748,7 +12764,7 @@
         "code": 1621,
         "code_ohme_id": 2251799853009331,
         "name": "Armand SURZUR",
-        "position": "0.3351612,42.818941",
+        "position": "-1.20193,43.630154",
         "adresse": "2 route d’Estensan - Résidence PEY – appt 2 65170  CAMPARAN",
         "cp": "",
         "city": "",
@@ -18281,7 +18297,7 @@
         "code": 2033,
         "code_ohme_id": 2251799853009678,
         "name": "Robin ANTOINE",
-        "position": "6.9268815,44.7941854",
+        "position": "6.9468624,44.8075691",
         "adresse": "Hlm le village 05460  ABRIÈS",
         "cp": "",
         "city": "",
@@ -22788,6 +22804,25 @@
         "ecole": false,
         "discipline": [],
         "prestation": []
+    },
+    {
+        "code": 2531,
+        "code_ohme_id": 2251799867233187,
+        "name": "Magnin - Nicolas - Fun Valley",
+        "position": "-0.6919392,43.2606705",
+        "adresse": "6 rue du bugala - 64400 Aren - Pyrénées Béarnaises",
+        "cp": "",
+        "city": "",
+        "tel": "07 82 95 77 60",
+        "email": "infofunvalley@gmail.com",
+        "site_internet": "https:\/\/www.funvalley.fr",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": [
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 1,
