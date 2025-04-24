@@ -8451,7 +8451,7 @@
         "code": 1238,
         "code_ohme_id": 2251799853009052,
         "name": "Louis MARTIN",
-        "position": "6.9420732,43.5020999",
+        "position": "6.9420106,43.5020537",
         "adresse": "appt 122, Le Cezanne, 2 Boulevard Eugène de Quay, 06590 Théoule-sur-Mer, France",
         "cp": "",
         "city": "",
@@ -9957,18 +9957,25 @@
     {
         "code": 1387,
         "code_ohme_id": 2251799853009152,
-        "name": "Wilfrid DELOLME",
-        "position": "4.3938915,45.4132621",
-        "adresse": "23 Bd Pasteur, 42100 Saint-Étienne, France",
+        "name": "WILFRID",
+        "position": "4.1218659,45.2932802",
+        "adresse": "12 chemin des chazeaux lieu dit gourdon lieu dit gourdon",
         "cp": "",
         "city": "",
         "tel": "06 09 52 09 40",
         "email": "wilfrid.delolme@gmail.com",
-        "site_internet": "",
+        "site_internet": "https:\/\/vttenvelay.fr",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Trial",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Stage"
+        ]
     },
     {
         "code": 1389,
@@ -17456,7 +17463,7 @@
         "code": 1977,
         "code_ohme_id": 2251799853009632,
         "name": "Michel CHAMBRON",
-        "position": "-2.7698935,48.5404364",
+        "position": "-2.7699187,48.5404293",
         "adresse": "4 Rue des Lilas 22190  PLERIN",
         "cp": "",
         "city": "",
@@ -20002,7 +20009,7 @@
     {
         "code": 2169,
         "code_ohme_id": 2251799853009796,
-        "name": "Clement FEUVRIER",
+        "name": "Feuvrier Clément",
         "position": "5.4089632,45.2553226",
         "adresse": "142 le petit chemin 38470 VATILIEU",
         "cp": "",
@@ -20012,8 +20019,18 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Gravel",
+            "Mobilité\/Remise en selle",
+            "Route",
+            "VTT",
+            "VTT Électrique"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Randonnée\/Balade",
+            "Stage"
+        ]
     },
     {
         "code": 2170,
@@ -22863,6 +22880,22 @@
         "prestation": []
     },
     {
+        "code": 1075,
+        "code_ohme_id": 2251799867509418,
+        "name": "Alexandre MARCHE",
+        "position": "-0.965806,45.660254",
+        "adresse": "261, route de Brie - Les Bonshommes",
+        "cp": "17600",
+        "city": "MEDIS",
+        "tel": "06 72 89 33 98",
+        "email": "am.alextrem@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
         "code": 2534,
         "code_ohme_id": 1125899965482787,
         "name": "Romain DIANOUX",
@@ -22872,6 +22905,54 @@
         "city": "Briancon",
         "tel": "06 31 08 55 07",
         "email": "romain.dianoux@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2535,
+        "code_ohme_id": 1125899966003071,
+        "name": "Baptiste FAUTREL",
+        "position": "6.6464067,44.90223",
+        "adresse": "5, route d'italie",
+        "cp": "05100",
+        "city": "Briancon",
+        "tel": "06 89 63 87 59",
+        "email": "fautrel.baptiste@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2536,
+        "code_ohme_id": 1125899966005534,
+        "name": "Yoann LALIZOU",
+        "position": "4.561873,45.54248",
+        "adresse": "686 ROUTE DE TAREVIEUX",
+        "cp": "42800",
+        "city": "GENILAC",
+        "tel": "06 59 21 54 39",
+        "email": "y.lalizou@hotmail.fr",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2537,
+        "code_ohme_id": 2251799868004304,
+        "name": "Thomas ESCUDIER",
+        "position": "2.1722534,43.2527661",
+        "adresse": "7 chemin de la conque",
+        "cp": "11170",
+        "city": "Alzonne",
+        "tel": "06 35 11 87 90",
+        "email": "thomas.escudier@hotmail.fr",
         "site_internet": "",
         "country": "France",
         "ecole": false,
