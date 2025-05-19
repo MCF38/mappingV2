@@ -24,13 +24,14 @@
         "cp": "",
         "city": "",
         "tel": "06 81 10 41 73",
-        "email": "bertrand@versolution.fr",
-        "site_internet": "https:\/\/formation-savoirrouleravelo.fr",
+        "email": "bertrand@naturavelo.com",
+        "site_internet": "https:\/\/naturavelo.com",
         "country": "France",
         "ecole": false,
         "discipline": [
             "Gravel",
             "Mobilité\/Remise en selle",
+            "Route",
             "VTT",
             "VTT Électrique",
             "VTT Enduro"
@@ -876,8 +877,8 @@
         "code": 117,
         "code_ohme_id": 2251799853008522,
         "name": "Philippe MENNECIER",
-        "position": "6.6326745,44.8844959",
-        "adresse": "44 rue Joseph Silvestre 05100  BRIANCON",
+        "position": "6.633174,44.8986136",
+        "adresse": "1 d square de narwick, residence du parc B2, 05100 Briançon",
         "cp": "",
         "city": "",
         "tel": "06 62 50 06 97",
@@ -5817,7 +5818,7 @@
         "code": 917,
         "code_ohme_id": 2251799853008871,
         "name": "Philippe HERAUD",
-        "position": "5.5933693,45.4885496",
+        "position": "5.5943348,45.4897293",
         "adresse": "Route du Mont Blanc, 70 impasse du Rutif 38620  MONTFERRAT",
         "cp": "",
         "city": "",
@@ -5878,7 +5879,7 @@
         "code": 928,
         "code_ohme_id": 2251799853008876,
         "name": "Romain PAULHAN",
-        "position": "3.730814,44.494177",
+        "position": "3.730746,44.494701",
         "adresse": "St Jean du Bleymard, 48190 Mont Lozère & Goulet, France",
         "cp": "",
         "city": "",
@@ -7783,9 +7784,9 @@
     {
         "code": 1159,
         "code_ohme_id": 2251799853009001,
-        "name": "Arnaud SCHNECKENBURGER",
-        "position": "6.4929887,45.8677008",
-        "adresse": "Rte de la Gardette, 73590 La Giettaz, France",
+        "name": "Arnaud",
+        "position": "6.4921019,45.8677689",
+        "adresse": "35 chemin de la combe 73590 La Giettaz, France",
         "cp": "",
         "city": "",
         "tel": "06 15 43 34 79",
@@ -7793,8 +7794,16 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Route",
+            "VTT",
+            "VTT Électrique"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 1160,
@@ -9761,7 +9770,7 @@
         "code": 1368,
         "code_ohme_id": 2251799853009137,
         "name": "Sébastien PENAGOS",
-        "position": "6.4551745,45.4657999",
+        "position": "6.4389954,45.4643552",
         "adresse": "Chalet Lucie - Hameau Fontaine 73260  VALMOREL",
         "cp": "",
         "city": "",
@@ -23145,18 +23154,26 @@
     {
         "code": 2544,
         "code_ohme_id": 2251799869012611,
-        "name": "Nino CASTETS",
+        "name": "Nino Castets",
         "position": "5.5901802,45.3657783",
-        "adresse": "13 Avenue Dugueyt Jouvin 38500 Voiron",
-        "cp": "38500",
-        "city": "Voiron",
+        "adresse": "13 Avenue Dugueyt-Jouvin 38500 Voiron",
+        "cp": "",
+        "city": "",
         "tel": "06 78 48 15 50",
         "email": "ninocastetsvtt@gmail.com",
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "VTT",
+            "VTT Descente",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Stage"
+        ]
     },
     {
         "code": 2545,
@@ -23264,6 +23281,22 @@
         "city": "Deneuvre",
         "tel": "07 82 90 70 78",
         "email": "florian.aubry54@hotmail.fr",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2553,
+        "code_ohme_id": 2251799871029253,
+        "name": "Pierre BERNARD",
+        "position": "6.892996,45.579603",
+        "adresse": "240 route du Grand Bois",
+        "cp": "73640",
+        "city": "sainte-foy-tarentaise",
+        "tel": "06 46 57 60 78",
+        "email": "pierbernard@wanadoo.fr",
         "site_internet": "",
         "country": "France",
         "ecole": false,
@@ -23959,22 +23992,6 @@
         "prestation": []
     },
     {
-        "code": 48,
-        "code_ohme_id": 2251799851002632,
-        "name": "Ecole MCF de Chamrousse",
-        "position": "5.8763762,45.1145583",
-        "adresse": "94 Route de la Croisette",
-        "cp": "38410",
-        "city": "CHAMROUSSE",
-        "tel": "06 61 85 59 89",
-        "email": "franck.sgambato@wanadoo.fr",
-        "site_internet": "https:\/\/chamrousse-activites.fr\/",
-        "country": "",
-        "ecole": true,
-        "discipline": [],
-        "prestation": []
-    },
-    {
         "code": 52,
         "code_ohme_id": 2251799851002636,
         "name": "Ecole MCF St François-Longchamp - Canton de la Chambre",
@@ -24208,6 +24225,22 @@
         "city": "Abriès-Ristolas",
         "tel": "06 73 29 08 73",
         "email": "info@rocknride-queyras.com",
+        "site_internet": "",
+        "country": "",
+        "ecole": true,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 380,
+        "code_ohme_id": 2251799866001176,
+        "name": "Ecole MCF Francilienne",
+        "position": "2.3014163,48.869939",
+        "adresse": "75 Rue François 1er",
+        "cp": "75008",
+        "city": "Paris",
+        "tel": "",
+        "email": "mcf.francilienne@gmail.com",
         "site_internet": "",
         "country": "",
         "ecole": true,
