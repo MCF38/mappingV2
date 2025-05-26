@@ -4798,11 +4798,24 @@
         "city": "",
         "tel": "06 61 35 42 81",
         "email": "olivier@moniteurvelo.com",
-        "site_internet": "",
+        "site_internet": "https:\/\/www.moniteurvelo.com",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "FatBike",
+            "Mobilité\/Remise en selle",
+            "VTT",
+            "VTT Descente",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Formation",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 759,
@@ -5831,7 +5844,7 @@
         "code": 917,
         "code_ohme_id": 2251799853008871,
         "name": "Philippe HERAUD",
-        "position": "5.5943348,45.4897293",
+        "position": "5.5933693,45.4885496",
         "adresse": "Route du Mont Blanc, 70 impasse du Rutif 38620  MONTFERRAT",
         "cp": "",
         "city": "",
@@ -7129,11 +7142,25 @@
         "city": "",
         "tel": "06 50 07 37 02",
         "email": "chriss.mejean.lapaire@gmail.com",
-        "site_internet": "https:\/\/www.triplebuses.com",
+        "site_internet": "https:\/\/www.velo-aventure-63.fr\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "FatBike",
+            "Mobilité\/Remise en selle",
+            "VTT",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Formation",
+            "Randonnée\/Balade",
+            "Séminaire",
+            "Stage",
+            "Voyage à vélo"
+        ]
     },
     {
         "code": 1104,
@@ -7526,8 +7553,8 @@
         "code": 1125,
         "code_ohme_id": 2251799853008984,
         "name": "Samuel MORRIS",
-        "position": "6.7521829,45.5778592",
-        "adresse": "1601 Route du Villard - Le Parchet 73210  LANDRY",
+        "position": "6.5431406,45.4987729",
+        "adresse": "1101 Route du Quermoz, Hautecour, 73600",
         "cp": "",
         "city": "",
         "tel": "06 15 71 99 32",
@@ -14362,7 +14389,7 @@
         "code": 1739,
         "code_ohme_id": 2251799853009428,
         "name": "Daniel GASTOU",
-        "position": "0.7090452,44.181013",
+        "position": "0.708346,44.178742",
         "adresse": "703 route du Pech de Mauzac 47240  CASTELCULIER",
         "cp": "",
         "city": "",
@@ -21153,7 +21180,12 @@
             "VTT Descente",
             "VTT Enduro"
         ],
-        "prestation": []
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Formation",
+            "Stage"
+        ]
     },
     {
         "code": 2224,
@@ -23352,6 +23384,38 @@
         "city": "LES ALLUES",
         "tel": "06 29 43 01 37",
         "email": "theoguittet@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2558,
+        "code_ohme_id": 2251799872013306,
+        "name": "Titouan RAMBIER",
+        "position": "3.2644689,44.5208794",
+        "adresse": "4 rue de la Vignasse",
+        "cp": "48100",
+        "city": "Bourgs-sur-Colagne",
+        "tel": "06 52 15 57 38",
+        "email": "trambier.pro@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2559,
+        "code_ohme_id": 1125899970012700,
+        "name": "Aline MATHERON",
+        "position": "0.3524816,42.8686821",
+        "adresse": "2 Carrère Male",
+        "cp": "65240",
+        "city": "Grézian",
+        "tel": "06 08 16 03 04",
+        "email": "aline.matheron@ridin-family.com",
         "site_internet": "",
         "country": "France",
         "ecole": false,
