@@ -4327,7 +4327,7 @@
         "code": 700,
         "code_ohme_id": 2251799853008769,
         "name": "VALCKE Bruno",
-        "position": "-0.1233894,43.0291875",
+        "position": "-0.1241468,43.0275495",
         "adresse": "5 impasse Arraous 65400  SALLES",
         "cp": "",
         "city": "",
@@ -5844,7 +5844,7 @@
         "code": 917,
         "code_ohme_id": 2251799853008871,
         "name": "Philippe HERAUD",
-        "position": "5.5933693,45.4885496",
+        "position": "5.5943348,45.4897293",
         "adresse": "Route du Mont Blanc, 70 impasse du Rutif 38620  MONTFERRAT",
         "cp": "",
         "city": "",
@@ -8590,7 +8590,7 @@
         "code": 1244,
         "code_ohme_id": 2251799853009057,
         "name": "Stephane EUPHRASIE",
-        "position": "2.213749,46.227638",
+        "position": "55.2286827,-21.0538749",
         "adresse": "Rue des Rosiers, 97411 Saint-Paul, France",
         "cp": "",
         "city": "",
@@ -14149,8 +14149,15 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Gravel",
+            "Route",
+            "VTT"
+        ],
+        "prestation": [
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 1719,
@@ -20245,13 +20252,13 @@
     {
         "code": 2175,
         "code_ohme_id": 2251799853009802,
-        "name": "JORAND Isabelle animatrice mobilités à vélo",
+        "name": "JORAND Isabelle - animatrice mobilités à vélo - Savoir Rouler à vélo adapté",
         "position": "-1.372813,49.0950519",
         "adresse": "La Guerderie 50200 CAMBERNON",
         "cp": "",
         "city": "",
         "tel": "06 18 11 77 47",
-        "email": "isabellejorand@gmail.com",
+        "email": "isabellejorand@orange.fr",
         "site_internet": "",
         "country": "France",
         "ecole": false,
