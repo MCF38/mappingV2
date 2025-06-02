@@ -1772,9 +1772,9 @@
     {
         "code": 281,
         "code_ohme_id": 2251799853008584,
-        "name": "Sophie VERRIER",
-        "position": "6.799042,45.598178",
-        "adresse": "UCPA Les Arcs - Village des 2 Têtes - Les Arcs 1600 73700  BOURG SAINT MAURICE",
+        "name": "SOPHIE VERRIER",
+        "position": "6.472741,45.4190003",
+        "adresse": "32 CHEMIN DU BAS LE VILLARD 74440 LES BELLEVILLE",
         "cp": "",
         "city": "",
         "tel": "06 82 97 59 73",
@@ -1782,8 +1782,13 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "VTT",
+            "VTT Électrique"
+        ],
+        "prestation": [
+            "Randonnée\/Balade"
+        ]
     },
     {
         "code": 285,
@@ -5185,7 +5190,7 @@
         "code": 817,
         "code_ohme_id": 2251799853008822,
         "name": "Frederic JANIN",
-        "position": "55.2376923,-21.0952734",
+        "position": "55.2379748,-21.0935781",
         "adresse": "Res les Veloutiers App 22 - 8 rue des Dodos 97434  LA SALINE LES BAINS",
         "cp": "",
         "city": "",
@@ -6910,7 +6915,7 @@
         "code": 1068,
         "code_ohme_id": 2251799853008943,
         "name": "Margaux FLEURY",
-        "position": "-0.429011,43.105519",
+        "position": "-0.430964,43.026902",
         "adresse": "2bis rue carnot 64260  GERE BELESTEN",
         "cp": "",
         "city": "",
@@ -8501,7 +8506,7 @@
         "code": 1236,
         "code_ohme_id": 2251799853009051,
         "name": "Alban COMPARAT",
-        "position": "6.323393,46.157656",
+        "position": "6.3232976,46.1576585",
         "adresse": "405 Chemin de Dindolire 74250  FILLINGES",
         "cp": "",
         "city": "",
@@ -9549,18 +9554,27 @@
     {
         "code": 1347,
         "code_ohme_id": 2251799853009122,
-        "name": "Didier TROUVEL",
+        "name": "HAUT-BUGEY VTT",
         "position": "5.5225911,46.1829214",
         "adresse": "19 Chemin de la Fontaine 01460  NURIEUX VOLOGNAT",
         "cp": "",
         "city": "",
         "tel": "06 67 86 61 49",
         "email": "did.trouvel@gmail.com",
-        "site_internet": "http:\/\/www.ecole-vtt-hautbugey.com\/",
+        "site_internet": "https:\/\/www.hautbugey-vtt.com\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "VTT",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Format Club",
+            "Randonnée\/Balade",
+            "Séminaire",
+            "Stage"
+        ]
     },
     {
         "code": 1348,
@@ -14046,7 +14060,7 @@
         "code": 1713,
         "code_ohme_id": 2251799853009406,
         "name": "Martin CUCHET",
-        "position": "6.6269552,45.536434",
+        "position": "6.626944,45.5364",
         "adresse": "33 route de notre dame du pré - Longefoy 73210  AIME LA PLAGNE",
         "cp": "",
         "city": "",
@@ -14396,7 +14410,7 @@
         "code": 1739,
         "code_ohme_id": 2251799853009428,
         "name": "Daniel GASTOU",
-        "position": "0.708346,44.178742",
+        "position": "0.7095389,44.1805156",
         "adresse": "703 route du Pech de Mauzac 47240  CASTELCULIER",
         "cp": "",
         "city": "",
@@ -17653,7 +17667,7 @@
         "code": 1980,
         "code_ohme_id": 2251799853009635,
         "name": "Eric DUCAT",
-        "position": "-0.2684363,43.2689989",
+        "position": "-0.2691741,43.2699172",
         "adresse": "16 Chemin Henri IV 64320  OUSSE",
         "cp": "",
         "city": "",
@@ -19024,18 +19038,26 @@
     {
         "code": 2088,
         "code_ohme_id": 2251799853009720,
-        "name": "Nathalie DAVID",
+        "name": "DAVID Nathalie NATAVÉLO",
         "position": "0.868782,49.212068",
         "adresse": "8 rue de l'église - St Nicolas du Bosc 27370  LE BOSC DU THEIL",
         "cp": "",
         "city": "",
         "tel": "06 32 64 94 28",
-        "email": "jardinat27@gmail.com",
-        "site_internet": "",
+        "email": "natavelo.com@gmail.com ",
+        "site_internet": "https:\/\/linktr.ee\/Natavelo",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Mobilité\/Remise en selle",
+            "Route",
+            "VTT"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 2089,
@@ -20364,14 +20386,14 @@
     {
         "code": 2185,
         "code_ohme_id": 2251799853009812,
-        "name": "JOUCLA-MOUSQUET Sébastien - Pyrénées Vélo Solution",
+        "name": "JOUCLA-MOUSQUET Sébastien - Vélo Boost Pyrénées",
         "position": "0.0748554,43.2328815",
         "adresse": "8bis rue Brauhauban 65420 IBOS",
         "cp": "",
         "city": "",
         "tel": "06 24 76 81 37",
-        "email": "sebastien.joucla@hotmail.fr",
-        "site_internet": "",
+        "email": "sebastien.joucla@veloboost-pyrenees.fr",
+        "site_internet": "https:\/\/veloboost-pyrenees.fr\/",
         "country": "France",
         "ecole": false,
         "discipline": [
@@ -21747,7 +21769,7 @@
         "code": 2267,
         "code_ohme_id": 1125899957043218,
         "name": "DISSANE Florian - FloVélo",
-        "position": "1.9881527,43.9264401",
+        "position": "2.1379023,44.0141491",
         "adresse": "Albi - Cap Découverte",
         "cp": "",
         "city": "",
@@ -23398,6 +23420,22 @@
         "prestation": []
     },
     {
+        "code": 2140,
+        "code_ohme_id": 1125899970008533,
+        "name": "Thomas VAN DE CATSEYN",
+        "position": "6.6721582,45.553536",
+        "adresse": "1002 route de la remise",
+        "cp": "73210",
+        "city": "La Plagne Tarentaise",
+        "tel": "06 24 62 88 80",
+        "email": "thomasvdc@icloud.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
         "code": 2558,
         "code_ohme_id": 2251799872013306,
         "name": "Titouan RAMBIER",
@@ -23423,6 +23461,22 @@
         "city": "Grézian",
         "tel": "06 08 16 03 04",
         "email": "aline.matheron@ridin-family.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2563,
+        "code_ohme_id": 1125899970032746,
+        "name": "Quentin SALIN",
+        "position": "2.855198,47.817677",
+        "adresse": "12 route d'aillant",
+        "cp": "45230",
+        "city": "Châtillon-Coligny",
+        "tel": "07 72 66 50 40",
+        "email": "quentin.salin12@gmail.com",
         "site_internet": "",
         "country": "France",
         "ecole": false,
@@ -24217,12 +24271,12 @@
         "code": 60,
         "code_ohme_id": 2251799851002644,
         "name": "Ecole MCF du Haut-Bugey",
-        "position": "5.5225911,46.1829214",
-        "adresse": "19 chemin de la fontaine",
+        "position": "5.5803324,46.1769045",
+        "adresse": "19 RUE DU JURA",
         "cp": "01460",
         "city": "MONTREAL-LA-CLUSE",
-        "tel": "06 22 42 16 59",
-        "email": "de.raynaud01@gmail.com",
+        "tel": "06 67 86 61 49",
+        "email": "did.trouvel@gmail.com",
         "site_internet": "https:\/\/www.ecole-vtt-hautbugey.com\/ - https:\/\/www.facebook.com\/didier.trouvel.fr",
         "country": "",
         "ecole": true,
