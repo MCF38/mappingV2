@@ -2570,9 +2570,9 @@
     {
         "code": 431,
         "code_ohme_id": 2251799853008644,
-        "name": "Cyril CALVIN",
+        "name": "CALVIN Cyril - Bike & Mecanic",
         "position": "5.5265498,43.6949604",
-        "adresse": "1010 Route de la bastidonne 84120  PERTUIS",
+        "adresse": "1010 Route de la Bastidonne, Domaine de Garance Maison 23, 84120  PERTUIS",
         "cp": "",
         "city": "",
         "tel": "06 82 44 05 34",
@@ -2580,8 +2580,16 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Mobilité\/Remise en selle",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Randonnée\/Balade"
+        ]
     },
     {
         "code": 432,
@@ -10004,7 +10012,7 @@
     {
         "code": 1384,
         "code_ohme_id": 2251799853009149,
-        "name": "Fabien COTTE",
+        "name": "Cotte Fabien",
         "position": "6.662475,45.548887",
         "adresse": "120 Rue de Saint-Antoine de Padoue  73210  LA PLAGNE TARENTAISE",
         "cp": "",
@@ -10018,6 +10026,7 @@
             "Trial",
             "VTT",
             "VTT Descente",
+            "VTT Électrique",
             "VTT Enduro"
         ],
         "prestation": []
@@ -12311,8 +12320,8 @@
         "code": 1575,
         "code_ohme_id": 2251799853009297,
         "name": "Bastien LESUEUR",
-        "position": "6.454047,45.4703319",
-        "adresse": "chalet U'Sandzon - La Charmette Village 73260  LES AVANCHERS-VALMOREL",
+        "position": "6.4551745,45.4657999",
+        "adresse": "46 impasse de la pi58 73260  LES AVANCHERS-VALMOREL",
         "cp": "",
         "city": "",
         "tel": "06 88 68 22 16",
@@ -17521,7 +17530,10 @@
         "country": "France",
         "ecole": false,
         "discipline": [],
-        "prestation": []
+        "prestation": [
+            "Cours particuliers",
+            "Stage"
+        ]
     },
     {
         "code": 1972,
@@ -22984,7 +22996,7 @@
         "code": 2529,
         "code_ohme_id": 1125899965215886,
         "name": "JOSEPH Nicolas - UNUSUAL RIDE",
-        "position": "4.9454803,43.6936638",
+        "position": "4.93867,43.7006",
         "adresse": "AUREILLE",
         "cp": "",
         "city": "",
@@ -23553,6 +23565,22 @@
         "prestation": []
     },
     {
+        "code": 2565,
+        "code_ohme_id": 2251799873004631,
+        "name": "CAMILLE FOURNIER BIKE ACADEMIE",
+        "position": "2.5235897,47.7641242",
+        "adresse": "12 rue de la carmerie",
+        "cp": "45570",
+        "city": "Dampierre-En-Burly - (45570)",
+        "tel": "06 77 79 44 23",
+        "email": "camillefournier45@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
         "code": 2567,
         "code_ohme_id": 2251799873045979,
         "name": "Gauthier GOUMY",
@@ -23755,8 +23783,8 @@
         "code": 2582,
         "code_ohme_id": 2251799875063682,
         "name": "Tatiana CRITON",
-        "position": "2.446978,48.619884",
-        "adresse": "9 square nathalie Lemel",
+        "position": "2.4429211,48.6280893",
+        "adresse": "T.criton.pro@gmail.com",
         "cp": "91000",
         "city": "Évry-Courcouronnes",
         "tel": "07 44 95 00 08",
@@ -23810,13 +23838,13 @@
     {
         "code": 2585,
         "code_ohme_id": 2251799875065270,
-        "name": "Grégory RATEL",
+        "name": "BIKE SENSATION",
         "position": "6.6775771,45.506573",
         "adresse": "115 rue du télémetro",
         "cp": "73210",
         "city": "LA PLAGNE TARENTAISE",
-        "tel": null,
-        "email": "gregratel@hotmail.fr",
+        "tel": "06 01 91 73 42",
+        "email": "contact@bike-sensation.com",
         "site_internet": "",
         "country": "France",
         "ecole": false,
@@ -23833,6 +23861,54 @@
         "city": "Saint Just d'Ardèche",
         "tel": "06 79 24 43 86",
         "email": "louispaulat@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 1860,
+        "code_ohme_id": 2251799875080555,
+        "name": "Arthur BOUCHET",
+        "position": "6.0258999,45.4993193",
+        "adresse": "1090 Rue de Belledonne",
+        "cp": "73800",
+        "city": "Porte-de-Savoie",
+        "tel": "06 58 09 91 27",
+        "email": "a.bouchet.ab@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2589,
+        "code_ohme_id": 1125899974000505,
+        "name": "Aurelien MOROT",
+        "position": "6.1176345,46.0006544",
+        "adresse": "559 Route du Chef lieu",
+        "cp": "74350",
+        "city": "Allonzier la caille",
+        "tel": "06 03 44 07 80",
+        "email": "aurelien_morot@hotmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2176,
+        "code_ohme_id": 1125899974000690,
+        "name": "Camille PIC",
+        "position": "6.7982648,45.9039084",
+        "adresse": "2736 route de Coupeau",
+        "cp": "74310",
+        "city": "Les Houches",
+        "tel": "06 89 89 69 59",
+        "email": "camillapic@gmail.com",
         "site_internet": "",
         "country": "France",
         "ecole": false,
