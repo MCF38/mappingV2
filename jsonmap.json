@@ -350,8 +350,14 @@
         "site_internet": "https:\/\/www.loisirs-loc-vtt.com",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "VTT",
+            "VTT Électrique"
+        ],
+        "prestation": [
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 51,
@@ -832,7 +838,7 @@
         "code": 127,
         "code_ohme_id": 2251799853008526,
         "name": "Lionel VARROT",
-        "position": "6.4802479,44.854847",
+        "position": "6.4807752,44.8548687",
         "adresse": "Puy Aillaud, 05290 Vallouise-Pelvoux, France",
         "cp": "",
         "city": "",
@@ -2056,7 +2062,7 @@
         "code": 361,
         "code_ohme_id": 2251799853008617,
         "name": "Charlie GARCIN",
-        "position": "6.0767098,45.0902319",
+        "position": "6.0678427,45.0915292",
         "adresse": "ESF, ALPE, 38750 HUEZ",
         "cp": "",
         "city": "",
@@ -2438,22 +2444,6 @@
         "tel": "06 24 62 52 15",
         "email": "contact@bikeinfinity.fr",
         "site_internet": "https:\/\/www.bikeinfinity.fr",
-        "country": "France",
-        "ecole": false,
-        "discipline": [],
-        "prestation": []
-    },
-    {
-        "code": 434,
-        "code_ohme_id": 2251799853008647,
-        "name": "Bruno GONNON",
-        "position": "6.219159,44.572463",
-        "adresse": "14 impasse du champ de Nice 05240  LA BATIE NEUVE",
-        "cp": "",
-        "city": "",
-        "tel": "06 88 06 47 04",
-        "email": "gonnon.bruno@gmail.com",
-        "site_internet": "",
         "country": "France",
         "ecole": false,
         "discipline": [],
@@ -5800,22 +5790,6 @@
         "prestation": []
     },
     {
-        "code": 961,
-        "code_ohme_id": 2251799853008895,
-        "name": "Maxime CHASLES",
-        "position": "6.565269,44.9433518",
-        "adresse": "Immeuble le Roc Noir, 1 Place de l'Aravet, 05240 LA SALLE LES ALPES, France",
-        "cp": "",
-        "city": "",
-        "tel": "06 61 83 65 47",
-        "email": "maxx181@msn.com",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [],
-        "prestation": []
-    },
-    {
         "code": 962,
         "code_ohme_id": 2251799853008896,
         "name": "James MERMILLOD",
@@ -7701,7 +7675,7 @@
         "code": 1200,
         "code_ohme_id": 2251799853009025,
         "name": "Raymond ORRE",
-        "position": "2.213749,46.227638",
+        "position": "55.3246434,-20.9854627",
         "adresse": "15 Rue des Zattes 97411 SAINT PAUL",
         "cp": "",
         "city": "",
@@ -8395,22 +8369,6 @@
         "city": "",
         "tel": "06 60 54 17 52",
         "email": "fabienpolletvillard@gmail.com",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [],
-        "prestation": []
-    },
-    {
-        "code": 1280,
-        "code_ohme_id": 2251799853009078,
-        "name": "Michel ESSOE",
-        "position": "6.2749551,44.5456465",
-        "adresse": "App 105, Res le Chevrefeuille, Lot. Du pré d’Obre, 05240 CHORGES, France",
-        "cp": "",
-        "city": "",
-        "tel": "06 66 19 35 86",
-        "email": "michel.essoe@hotmail.fr",
         "site_internet": "",
         "country": "France",
         "ecole": false,
@@ -9562,7 +9520,7 @@
         "code": 1393,
         "code_ohme_id": 2251799853009157,
         "name": "Ionutvictor NEAMT",
-        "position": "6.528711,45.461081",
+        "position": "6.5287469,45.4610825",
         "adresse": "34 Rue de la Taillat 73600  VILLARLURIN",
         "cp": "",
         "city": "",
@@ -13813,22 +13771,6 @@
         ]
     },
     {
-        "code": 1758,
-        "code_ohme_id": 2251799853009445,
-        "name": "Marc BOLZER",
-        "position": "6.9878611,45.4460278",
-        "adresse": "Les Silènes, Allée des Richardes, 73150 Val-d'Isère, France",
-        "cp": "",
-        "city": "",
-        "tel": "06 07 54 10 79",
-        "email": "bazu@bazuexperience.com",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [],
-        "prestation": []
-    },
-    {
         "code": 1761,
         "code_ohme_id": 2251799853009446,
         "name": "Clare HAIG",
@@ -13987,8 +13929,17 @@
         "site_internet": "https:\/\/velolive.fr -",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Mobilité\/Remise en selle",
+            "VTT",
+            "VTT Électrique"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Formation",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 1778,
@@ -14457,7 +14408,7 @@
         "code": 1817,
         "code_ohme_id": 2251799853009496,
         "name": "Arthur SAINTHON",
-        "position": "5.5439238,45.606002",
+        "position": "3.633484,45.450009",
         "adresse": "57 Impasse Jacquard 38630  CORBELIN",
         "cp": "",
         "city": "",
@@ -15406,8 +15357,8 @@
         "code": 1905,
         "code_ohme_id": 2251799853009565,
         "name": "Loic TRIMOLET",
-        "position": "6.1211051,45.912413",
-        "adresse": "27 avenue du parc des sports 74000  ANNECY",
+        "position": "6.1046142,45.9039082",
+        "adresse": "9 avenue de gevrier",
         "cp": "",
         "city": "",
         "tel": "06 02 15 85 89",
@@ -15415,7 +15366,9 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "BMX"
+        ],
         "prestation": []
     },
     {
@@ -16243,7 +16196,7 @@
         "code": 1958,
         "code_ohme_id": 2251799853009614,
         "name": "Theo MATHIEU",
-        "position": "6.193657,44.067189",
+        "position": "6.1957745,44.0682471",
         "adresse": "34 bis route du chaffaut 04000  DIGNE-LES-BAINS",
         "cp": "",
         "city": "",
@@ -16804,30 +16757,6 @@
         "prestation": []
     },
     {
-        "code": 1992,
-        "code_ohme_id": 2251799853009646,
-        "name": "MONTILLIER Alain - METTRE AU VELO",
-        "position": "5.7333262,45.1921681",
-        "adresse": "2 rue Servan 38000 GRENOBLE",
-        "cp": "",
-        "city": "",
-        "tel": "07 68 45 43 57",
-        "email": "mettreauvelo@gresille.org",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [
-            "Mobilité\/Remise en selle",
-            "Route"
-        ],
-        "prestation": [
-            "Cours particuliers",
-            "Formation",
-            "Randonnée\/Balade",
-            "Stage"
-        ]
-    },
-    {
         "code": 1993,
         "code_ohme_id": 2251799853009647,
         "name": "Matheo GRANDJEAN",
@@ -17345,27 +17274,6 @@
         "prestation": []
     },
     {
-        "code": 2034,
-        "code_ohme_id": 2251799853009679,
-        "name": "Maxime LECLERRE",
-        "position": "4.8685017,45.7980323",
-        "adresse": "1 chemin des mûriers 69300  CALUIRE-ET-CUIRE",
-        "cp": "",
-        "city": "",
-        "tel": "06 16 86 03 67",
-        "email": "maxleclerre@hotmail.fr",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [
-            "Trial",
-            "VTT",
-            "VTT Descente",
-            "VTT Enduro"
-        ],
-        "prestation": []
-    },
-    {
         "code": 2038,
         "code_ohme_id": 2251799853009681,
         "name": "Philippe LAC",
@@ -17475,22 +17383,6 @@
             "Gravel",
             "Route"
         ],
-        "prestation": []
-    },
-    {
-        "code": 2047,
-        "code_ohme_id": 2251799853009689,
-        "name": "Théo FACHE",
-        "position": "3.0757776,50.6069925",
-        "adresse": "139 avenue Jean Jaurès - Bâtiment B - appartement 288 59790  RONCHIN",
-        "cp": "",
-        "city": "",
-        "tel": "06 25 18 85 67",
-        "email": "theoofache@gmail.com",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [],
         "prestation": []
     },
     {
@@ -17694,7 +17586,7 @@
         "code": 2073,
         "code_ohme_id": 2251799853009708,
         "name": "Nicolas PIGELET",
-        "position": "1.439638,43.6121399",
+        "position": "1.4396548,43.6121376",
         "adresse": "6 rue de la Balance 31000 Toulouse",
         "cp": "",
         "city": "",
@@ -18318,7 +18210,7 @@
         "code": 2129,
         "code_ohme_id": 2251799853009757,
         "name": "Sorana BIRSAN",
-        "position": "6.528711,45.461081",
+        "position": "6.5287469,45.4610825",
         "adresse": "34 rue de la taillat 73600 LES BELLEVILLE",
         "cp": "",
         "city": "",
@@ -20263,7 +20155,7 @@
         "code": 2267,
         "code_ohme_id": 1125899957043218,
         "name": "DISSANE Florian - FloVélo",
-        "position": "1.9881527,43.9264401",
+        "position": "2.1379023,44.0141491",
         "adresse": "Albi - Cap Découverte",
         "cp": "",
         "city": "",
@@ -21033,8 +20925,14 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Route",
+            "VTT"
+        ],
+        "prestation": [
+            "Format Club",
+            "Randonnée\/Balade"
+        ]
     },
     {
         "code": 2509,
@@ -22277,8 +22175,8 @@
         "code": 2597,
         "code_ohme_id": 1125899975017877,
         "name": "Steven SAUTRON",
-        "position": "6.1176684,45.0056635",
-        "adresse": "1 rue du soleil",
+        "position": "6.5802602,45.2968964",
+        "adresse": "1 rue du soleil , résidence le soleil",
         "cp": "38860",
         "city": "Les deux Alpes",
         "tel": "06 23 90 83 50",
@@ -22582,6 +22480,22 @@
         "city": "Sorède",
         "tel": "06 29 81 04 80",
         "email": "alexis.vuillermoz@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2807,
+        "code_ohme_id": 1125899988001491,
+        "name": "Benoit DELLOU",
+        "position": "3.5719403,50.3139757",
+        "adresse": "9 rue le galet",
+        "cp": "59990",
+        "city": "préseau",
+        "tel": "06 87 33 46 42",
+        "email": "bendellou@hotmail.fr",
         "site_internet": "",
         "country": "France",
         "ecole": false,
@@ -22959,7 +22873,7 @@
     {
         "code": 27,
         "code_ohme_id": 2251799851002611,
-        "name": "La Maison du Vélo",
+        "name": "La Maison du Vélo - Ecole MCF de Rumilly - Terre de Savoie",
         "position": "5.9617195,45.8443562",
         "adresse": "2 Chemin du Moulin",
         "cp": "74150",
@@ -23472,7 +23386,7 @@
         "code": 377,
         "code_ohme_id": 1125899961063027,
         "name": "Ecole MCF du Haut Guil – Queyras",
-        "position": "2.2582033,48.6989546",
+        "position": "6.9468624,44.8075691",
         "adresse": "Le village",
         "cp": "05460",
         "city": "ABRIES",
