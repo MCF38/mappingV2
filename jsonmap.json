@@ -208,7 +208,7 @@
         "code": 30,
         "code_ohme_id": 2251799853008483,
         "name": "Olivier ROGUE",
-        "position": "2.726069,45.620517",
+        "position": "2.726845,45.619428",
         "adresse": "Les granges 63150  ST SAUVES D'AUVERGNE",
         "cp": "",
         "city": "",
@@ -2229,6 +2229,32 @@
         "prestation": []
     },
     {
+        "code": 389,
+        "code_ohme_id": 2251799853008630,
+        "name": "CYCLOROPHIL",
+        "position": "5.7632926,45.0550717",
+        "adresse": "146 rue des Durands  38220  ST PIERRE DE MESAGE",
+        "cp": "",
+        "city": "",
+        "tel": "06 07 35 96 07",
+        "email": "brice.lacroix7@orange.fr",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [
+            "Gravel",
+            "VTT",
+            "VTT Descente",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Randonnée\/Balade"
+        ]
+    },
+    {
         "code": 391,
         "code_ohme_id": 2251799853008631,
         "name": "Boris MELQUIOT",
@@ -3806,7 +3832,7 @@
         "code": 672,
         "code_ohme_id": 2251799853008750,
         "name": "Xavier CHABANNE",
-        "position": "1.986249,42.4959495",
+        "position": "1.9860103,42.4959802",
         "adresse": "La GRIOLE - Camping Gites et Activités Nature - 39 route de l'Andorre 66120  TARGASONNE",
         "cp": "",
         "city": "",
@@ -4971,7 +4997,7 @@
     {
         "code": 824,
         "code_ohme_id": 2251799853008826,
-        "name": "Jean-Michel KRAFT",
+        "name": "Kraft Jean-michel",
         "position": "6.6366177,45.9103248",
         "adresse": "515 chemin de Pormonet 74700  DOMANCY",
         "cp": "",
@@ -5259,8 +5285,8 @@
         "code": 867,
         "code_ohme_id": 2251799853008848,
         "name": "Sebastien PELLICCIA",
-        "position": "6.481934,44.5612179",
-        "adresse": "les vignes 4 - Le vega, 5 Rue du Cepage, 05200 Embrun, France",
+        "position": "6.1264927,44.4882621",
+        "adresse": "53 Gran'Rue, 05130 Valserres, France",
         "cp": "",
         "city": "",
         "tel": "06 78 99 20 34",
@@ -5608,7 +5634,7 @@
         "code_ohme_id": 2251799853008879,
         "name": "Damien SAILLET",
         "position": "6.0132531,45.6392376",
-        "adresse": "22 chemin du crêt 73240  LES DESERTS",
+        "adresse": "22 chemin du crêt 73230  LES DESERTS",
         "cp": "",
         "city": "",
         "tel": "06 60 24 77 39",
@@ -5616,7 +5642,9 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "VTT"
+        ],
         "prestation": []
     },
     {
@@ -6260,7 +6288,7 @@
         "code": 1031,
         "code_ohme_id": 2251799853008925,
         "name": "Pierre LAYACHI",
-        "position": "9.4326968,42.6953191",
+        "position": "9.428557,42.695461",
         "adresse": "Les hauts de San Gaetano 20200  BASTIA",
         "cp": "",
         "city": "",
@@ -6638,7 +6666,7 @@
         "code": 1096,
         "code_ohme_id": 2251799853008955,
         "name": "Robin BOYER",
-        "position": "6.650674,44.902545",
+        "position": "6.657435,44.903626",
         "adresse": "43 Hameau du Fontenil 05100  BRIANCON",
         "cp": "",
         "city": "",
@@ -7675,7 +7703,7 @@
         "code": 1200,
         "code_ohme_id": 2251799853009025,
         "name": "Raymond ORRE",
-        "position": "55.3246434,-20.9854627",
+        "position": "2.213749,46.227638",
         "adresse": "15 Rue des Zattes 97411 SAINT PAUL",
         "cp": "",
         "city": "",
@@ -8944,7 +8972,7 @@
         "code": 1343,
         "code_ohme_id": 2251799853009119,
         "name": "Pierre-François LAYACHI-VENDASI",
-        "position": "9.4326968,42.6953191",
+        "position": "9.428557,42.695461",
         "adresse": "Les hauts de San Gaetano 20200  BASTIA",
         "cp": "",
         "city": "",
@@ -11163,22 +11191,6 @@
         ]
     },
     {
-        "code": 1548,
-        "code_ohme_id": 2251799853009272,
-        "name": "Sebastien MICHEL",
-        "position": "4.0596998,43.6713679",
-        "adresse": "72 rue Jean Lurcat 34130  VALERGUES",
-        "cp": "",
-        "city": "",
-        "tel": "07 81 86 86 17",
-        "email": "sebecobike@gmail.com",
-        "site_internet": "https:\/\/www.facebook.com\/Sebecobike",
-        "country": "France",
-        "ecole": false,
-        "discipline": [],
-        "prestation": []
-    },
-    {
         "code": 1549,
         "code_ohme_id": 2251799853009273,
         "name": "Xavier BRUN",
@@ -12411,27 +12423,6 @@
         ]
     },
     {
-        "code": 1653,
-        "code_ohme_id": 2251799853009357,
-        "name": "Brian ALMELA",
-        "position": "6.7357816,45.5912279",
-        "adresse": "5 chemin de Nant Jean - Lieu dit Montgirod  73700  LES CHAPELLES",
-        "cp": "",
-        "city": "",
-        "tel": "06 70 06 47 29",
-        "email": "brian042698@hotmail.fr",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [
-            "Trial",
-            "VTT",
-            "VTT Descente",
-            "VTT Enduro"
-        ],
-        "prestation": []
-    },
-    {
         "code": 1656,
         "code_ohme_id": 2251799853009359,
         "name": "Thibault BROUILLARD",
@@ -12552,18 +12543,28 @@
     {
         "code": 1665,
         "code_ohme_id": 2251799853009366,
-        "name": "Veronique DUPRE",
-        "position": "5.7806885,45.2086415",
-        "adresse": "3C Avenue du Granier 38240  MEYLAN",
+        "name": "Véronique",
+        "position": "6.6336031,44.8771977",
+        "adresse": "33 Rue du mélézin 05100 Villar saint Pancrace",
         "cp": "",
         "city": "",
         "tel": "06 63 10 92 32",
         "email": "lahautevallee.rando.vtt@gmail.com",
-        "site_internet": "https:\/\/www.randoveroniquedupre.com\/",
+        "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "FatBike",
+            "Mobilité\/Remise en selle",
+            "VTT",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Formation",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 1667,
@@ -13525,22 +13526,6 @@
         "prestation": []
     },
     {
-        "code": 1738,
-        "code_ohme_id": 2251799853009427,
-        "name": "Laurent FOISSAC",
-        "position": "6.20193,44.62066",
-        "adresse": "Pré Joubert - Batiment Igloo 05260  ANCELLE",
-        "cp": "",
-        "city": "",
-        "tel": "06 10 19 93 56",
-        "email": "vtt@cap-liberte.fr",
-        "site_internet": "https:\/\/www.cap-liberte.fr - https:\/\/fr-fr.facebook.com\/foissac.laurent",
-        "country": "France",
-        "ecole": false,
-        "discipline": [],
-        "prestation": []
-    },
-    {
         "code": 1740,
         "code_ohme_id": 2251799853009429,
         "name": "Timothe BRINGER",
@@ -14421,34 +14406,6 @@
         "prestation": []
     },
     {
-        "code": 1819,
-        "code_ohme_id": 2251799853009498,
-        "name": "DEZON Xavier  - AGDR-Loisirs",
-        "position": "4.9737104,44.6293972",
-        "adresse": "27, Rue des Redis 26450 Puy-Saint-Martin",
-        "cp": "",
-        "city": "",
-        "tel": "06 60 70 39 03",
-        "email": "xavier.dezon@gmail.com",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [
-            "BMX",
-            "VTT",
-            "VTT Descente",
-            "VTT Électrique",
-            "VTT Enduro"
-        ],
-        "prestation": [
-            "Cours particuliers",
-            "Format Club",
-            "Formation",
-            "Randonnée\/Balade",
-            "Stage"
-        ]
-    },
-    {
         "code": 1820,
         "code_ohme_id": 2251799853009499,
         "name": "ROUSSON Greg - Rod'Bike",
@@ -14591,27 +14548,6 @@
         ]
     },
     {
-        "code": 1830,
-        "code_ohme_id": 2251799853009506,
-        "name": "Brice VIARD-GAUDIN",
-        "position": "6.5682298,45.7226348",
-        "adresse": "663 Route de Domelin 73270  BEAUFORT",
-        "cp": "",
-        "city": "",
-        "tel": "06 87 16 81 98",
-        "email": "brice.viardgaudin@gmail.com",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [
-            "Trial",
-            "VTT",
-            "VTT Descente",
-            "VTT Enduro"
-        ],
-        "prestation": []
-    },
-    {
         "code": 1831,
         "code_ohme_id": 2251799853009507,
         "name": "Maël OLLIVIER",
@@ -14652,7 +14588,7 @@
         "code": 1834,
         "code_ohme_id": 2251799853009509,
         "name": "CORRE Matthieu - Rod'Bike",
-        "position": "-4.443613,48.398969",
+        "position": "-4.4435527,48.3988771",
         "adresse": "45 Rue Charles le Goffic, 29200 BREST, France",
         "cp": "",
         "city": "",
@@ -14939,27 +14875,6 @@
         "country": "France",
         "ecole": false,
         "discipline": [],
-        "prestation": []
-    },
-    {
-        "code": 1856,
-        "code_ohme_id": 2251799853009530,
-        "name": "Leo MATHIEU",
-        "position": "6.9561795,48.2928695",
-        "adresse": "35 rue de la corvée 88100  SAINT DIE DES VOSGES",
-        "cp": "",
-        "city": "",
-        "tel": "07 78 55 40 31",
-        "email": "leomathieu.lm@gmail.com",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [
-            "Trial",
-            "VTT",
-            "VTT Descente",
-            "VTT Enduro"
-        ],
         "prestation": []
     },
     {
@@ -15484,7 +15399,7 @@
     {
         "code": 1913,
         "code_ohme_id": 2251799853009572,
-        "name": "Pascal BODET",
+        "name": "BODET Pascal DOOBIKE",
         "position": "6.0410011,47.2538366",
         "adresse": "15 Avenue de la vaite, 25000 BESANCON, France",
         "cp": "",
@@ -15494,8 +15409,16 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Mobilité\/Remise en selle",
+            "Route"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Formation",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 1914,
@@ -17256,7 +17179,7 @@
         "code": 2033,
         "code_ohme_id": 2251799853009678,
         "name": "Robin ANTOINE",
-        "position": "6.927618,44.793991",
+        "position": "6.9268815,44.7941854",
         "adresse": "Hlm le village 05460  ABRIÈS",
         "cp": "",
         "city": "",
@@ -17586,7 +17509,7 @@
         "code": 2073,
         "code_ohme_id": 2251799853009708,
         "name": "Nicolas PIGELET",
-        "position": "1.4396548,43.6121376",
+        "position": "1.4397178,43.6121333",
         "adresse": "6 rue de la Balance 31000 Toulouse",
         "cp": "",
         "city": "",
@@ -18696,17 +18619,18 @@
         "cp": "",
         "city": "",
         "tel": "06 09 75 43 33",
-        "email": "eltonrabineau.sound@gmail.com",
+        "email": "latraverse.velo@gmail.com",
         "site_internet": "",
         "country": "France",
         "ecole": false,
         "discipline": [
-            "Trial",
             "VTT",
-            "VTT Descente",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
-        "prestation": []
+        "prestation": [
+            "Cours particuliers",
+            "Randonnée\/Balade"
+        ]
     },
     {
         "code": 2165,
@@ -18948,7 +18872,7 @@
         "code": 2183,
         "code_ohme_id": 2251799853009810,
         "name": "Sebastien FREMIOT",
-        "position": "6.863849,47.639674",
+        "position": "6.8454062,47.6433692",
         "adresse": "53 les prés de l'étang 90000 BELFORT",
         "cp": "",
         "city": "",
@@ -20097,29 +20021,6 @@
         "prestation": []
     },
     {
-        "code": 2262,
-        "code_ohme_id": 1125899953004123,
-        "name": "POPPE Léon - Poppe Perf",
-        "position": "5.570616,45.115858",
-        "adresse": "249 Route Des Eymards",
-        "cp": "",
-        "city": "",
-        "tel": "06 71 04 84 58",
-        "email": "leon.poppe31@gmail.com",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [
-            "VTT Enduro"
-        ],
-        "prestation": [
-            "Cours particuliers",
-            "Format Club",
-            "Randonnée\/Balade",
-            "Stage"
-        ]
-    },
-    {
         "code": 2264,
         "code_ohme_id": 2251799857009741,
         "name": "LANDAZ Marjorie",
@@ -20155,7 +20056,7 @@
         "code": 2267,
         "code_ohme_id": 1125899957043218,
         "name": "DISSANE Florian - FloVélo",
-        "position": "2.1379023,44.0141491",
+        "position": "1.9881527,43.9264401",
         "adresse": "Albi - Cap Découverte",
         "cp": "",
         "city": "",
@@ -21705,22 +21606,6 @@
         "prestation": []
     },
     {
-        "code": 2558,
-        "code_ohme_id": 2251799872013306,
-        "name": "Titouan RAMBIER",
-        "position": "3.2644689,44.5208794",
-        "adresse": "4 rue de la Vignasse",
-        "cp": "48100",
-        "city": "Bourgs-sur-Colagne",
-        "tel": "06 52 15 57 38",
-        "email": "trambier.pro@gmail.com",
-        "site_internet": "",
-        "country": "France",
-        "ecole": false,
-        "discipline": [],
-        "prestation": []
-    },
-    {
         "code": 2559,
         "code_ohme_id": 1125899970012700,
         "name": "Aline MATHERON",
@@ -22503,6 +22388,58 @@
         "prestation": []
     },
     {
+        "code": 2810,
+        "code_ohme_id": 2251799891001047,
+        "name": "Maé FOUCAULT",
+        "position": "6.3105562,46.0689216",
+        "adresse": "190b avenue Charles de Gaulles",
+        "cp": "74800",
+        "city": "La Roche sur Foron",
+        "tel": "07 68 69 10 57",
+        "email": "mae.foucault@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2813,
+        "code_ohme_id": 2251799891028749,
+        "name": "Flore VAN DE MEULEBROEKE",
+        "position": "3.5180359,50.4805302",
+        "adresse": "48 rue pierre Joseph lemer",
+        "cp": "59199",
+        "city": "HERGNIES",
+        "tel": "06 28 53 84 33",
+        "email": "flore.vdm@hotmail.fr",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
+        "code": 2814,
+        "code_ohme_id": 1125899989038627,
+        "name": "Dubois Xavier - Roule ma poule",
+        "position": "3.5796234,50.1944955",
+        "adresse": "12 rue luthon",
+        "cp": "",
+        "city": "",
+        "tel": "06 98 67 37 37",
+        "email": "duboisx@orange.fr",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [
+            "VTT"
+        ],
+        "prestation": [
+            "Format Club"
+        ]
+    },
+    {
         "code": 1,
         "code_ohme_id": 2251799851002585,
         "name": "Ecole MCF des Gêts",
@@ -22618,10 +22555,10 @@
         "code": 9,
         "code_ohme_id": 2251799851002593,
         "name": "Ecole MCF de Strasbourg",
-        "position": "7.4633365,48.5338919",
-        "adresse": "Place de la Gare",
+        "position": "7.4626783,48.533834",
+        "adresse": "TRACE VERTE",
         "cp": "67190",
-        "city": "Mutzig",
+        "city": "MUTZIG",
         "tel": "03 88 38 30 69",
         "email": "info@traceverte.com",
         "site_internet": "https:\/\/www.traceverte.com",
@@ -23386,7 +23323,7 @@
         "code": 377,
         "code_ohme_id": 1125899961063027,
         "name": "Ecole MCF du Haut Guil – Queyras",
-        "position": "6.9468624,44.8075691",
+        "position": "2.2582033,48.6989546",
         "adresse": "Le village",
         "cp": "05460",
         "city": "ABRIES",
