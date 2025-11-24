@@ -487,22 +487,6 @@
         "prestation": []
     },
     {
-        "code": 66,
-        "code_ohme_id": 2251799853008500,
-        "name": "Denis GAIMARD",
-        "position": "6.045799,43.329229",
-        "adresse": "27 rue aire des dames 83136  GAREOULT",
-        "cp": "",
-        "city": "",
-        "tel": "06 70 37 38 64",
-        "email": "dgaimard@wanadoo.fr",
-        "site_internet": "https:\/\/gareoultbikepark.fr",
-        "country": "France",
-        "ecole": false,
-        "discipline": [],
-        "prestation": []
-    },
-    {
         "code": 68,
         "code_ohme_id": 2251799853008501,
         "name": "Jean-Luc CHRISOSTOME",
@@ -5613,9 +5597,9 @@
     {
         "code": 929,
         "code_ohme_id": 2251799853008877,
-        "name": "Kevin GAUTIER",
-        "position": "5.6927033,45.1933719",
-        "adresse": "10 rue de la paix  38600  FONTAINE",
+        "name": "GAUTIER Kevin",
+        "position": "5.688423,45.1815081",
+        "adresse": "25 ter avenue du Vercors 38170 Seyssinet-Pariset",
         "cp": "",
         "city": "",
         "tel": "06 47 22 46 08",
@@ -5623,7 +5607,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "BMX",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -5933,9 +5922,9 @@
     {
         "code": 974,
         "code_ohme_id": 2251799853008901,
-        "name": "CHERBONNEL Laurent - V.T.T. Vélo Terroir et Territoire - Ecole VTT du Popey",
-        "position": "4.5423818,45.8613178",
-        "adresse": "69490 saint Romain de popey",
+        "name": "CHERBONNEL Laurent - V.T.T. Vélo Terroir et Territoire - Ecole VTT du Popey - VéloAcadémie",
+        "position": "4.5306531,45.8472404",
+        "adresse": "69490 saint Romain de popey \/ 15300 le lioran",
         "cp": "",
         "city": "",
         "tel": "07 50 07 69 47",
@@ -9234,7 +9223,7 @@
         "code": 1367,
         "code_ohme_id": 2251799853009136,
         "name": "Julien SANSARNY",
-        "position": "6.138412,44.55676",
+        "position": "6.139022,44.557778",
         "adresse": "Hameau de la Moutouse 05000  RAMBAUD",
         "cp": "",
         "city": "",
@@ -9250,7 +9239,7 @@
         "code": 1368,
         "code_ohme_id": 2251799853009137,
         "name": "Sébastien PENAGOS",
-        "position": "6.4551745,45.4657999",
+        "position": "6.4389954,45.4643552",
         "adresse": "Chalet Lucie - Hameau Fontaine 73260  VALMOREL",
         "cp": "",
         "city": "",
@@ -10683,8 +10672,8 @@
         "code": 1503,
         "code_ohme_id": 2251799853009236,
         "name": "Samuel MICHEL",
-        "position": "6.7436692,46.1883213",
-        "adresse": "80 chemin d'en Ly 74110  MORZINE",
+        "position": "6.7463216,46.1100235",
+        "adresse": "21 Chemin de la Chapelle des Allamands",
         "cp": "",
         "city": "",
         "tel": "06 64 42 71 88",
@@ -10837,8 +10826,8 @@
         "cp": "",
         "city": "",
         "tel": "06 73 52 76 82",
-        "email": "david.sarhy@outlook.fr",
-        "site_internet": "",
+        "email": "david.sarhy65@gmail.com",
+        "site_internet": "https:\/\/www.vttinstlarysoulan.fr",
         "country": "France",
         "ecole": false,
         "discipline": [],
@@ -12461,7 +12450,7 @@
     {
         "code": 1661,
         "code_ohme_id": 2251799853009363,
-        "name": "Aymeric STPAUL",
+        "name": "Aymeric SAINT PAUL",
         "position": "1.4421249,43.5850061",
         "adresse": "App 14 - 18 rue des saules 31400  TOULOUSE",
         "cp": "",
@@ -13188,11 +13177,22 @@
         "city": "",
         "tel": "06 85 85 09 10",
         "email": "ppuech@hotmail.com",
-        "site_internet": "https:\/\/m.facebook.com\/FeelSingleTrack\/",
+        "site_internet": "https:\/\/www.feel-singletrack.com\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Gravel",
+            "Mobilité\/Remise en selle",
+            "Route",
+            "VTT",
+            "VTT Électrique"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 1713,
@@ -13337,16 +13337,25 @@
         "code_ohme_id": 2251799853009413,
         "name": "Grégoire DELLOYE",
         "position": "6.3419088,45.6236208",
-        "adresse": "75 route des oratoires, 73200 ALBERTVILLE, France",
-        "cp": "",
-        "city": "",
+        "adresse": "75 route des oratoires",
+        "cp": "73460",
+        "city": "Notre-Dame-des-Millières",
         "tel": "06 08 64 12 20",
         "email": "gregoire.delloye@gmail.com",
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Route",
+            "VTT",
+            "VTT Électrique"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Séminaire",
+            "Stage",
+            "Voyage à vélo"
+        ]
     },
     {
         "code": 1721,
@@ -13463,7 +13472,7 @@
         "code": 1731,
         "code_ohme_id": 2251799853009421,
         "name": "Louis TEXIER",
-        "position": "4.252692,43.746238",
+        "position": "4.2526822,43.7462444",
         "adresse": "21 route nationale - 113 Pont de Crau 13200  ARLES",
         "cp": "",
         "city": "",
@@ -20343,7 +20352,7 @@
         "tel": "+352 691 129 034",
         "email": "coach.michel@yahoo.com",
         "site_internet": "",
-        "country": "France",
+        "country": "Belgique",
         "ecole": false,
         "discipline": [
             "Gravel",
@@ -21181,7 +21190,7 @@
         "code": 2524,
         "code_ohme_id": 1125899965131691,
         "name": "Maxime LORET",
-        "position": "6.118868,45.910791",
+        "position": "6.1186528,45.9106025",
         "adresse": "39 avenue des romains",
         "cp": "74000",
         "city": "Annecy",
@@ -21569,7 +21578,7 @@
         "code": 2546,
         "code_ohme_id": 2251799870000526,
         "name": "Laurent THAON",
-        "position": "6.0522191,43.3306522",
+        "position": "6.05222,43.33059",
         "adresse": "13 BOULEVARD DE LA LIBERATION",
         "cp": "83136",
         "city": "GAREOULT",
@@ -21831,7 +21840,7 @@
         "code": 1887,
         "code_ohme_id": 2251799875008942,
         "name": "Albin Poivey - LRR Coaching",
-        "position": "3.084639,43.5957518",
+        "position": "3.0757189,43.6025029",
         "adresse": "Lamalou-les-Bains",
         "cp": "",
         "city": "",
@@ -22623,8 +22632,17 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "VTT",
+            "VTT Descente",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 2822,
@@ -22719,7 +22737,15 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Mobilité\/Remise en selle",
+            "Route",
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
         "prestation": []
     },
     {
@@ -22742,7 +22768,7 @@
         "code": 2,
         "code_ohme_id": 2251799851002586,
         "name": "Ecole MCF des Arcs",
-        "position": "6.778969,45.5741495",
+        "position": "6.778752,45.573849",
         "adresse": "CHALET ESF ARC 1800 - Immeuble les tournavelles",
         "cp": "73700",
         "city": "ARC 1800",
@@ -23366,11 +23392,11 @@
         "code": 47,
         "code_ohme_id": 2251799851002631,
         "name": "Ecole MCF de Samoëns - Grand Massif",
-        "position": "6.7321864,46.0856451",
-        "adresse": "206 Rte des Pleignes",
+        "position": "6.7212897,46.0765845",
+        "adresse": "730 route du grand massif",
         "cp": "74340",
         "city": "Samoëns",
-        "tel": "",
+        "tel": "06 64 42 71 88",
         "email": "ecolevtt.septibike@gmail.com",
         "site_internet": "http:\/\/ecolevtt-septibike.fr\/",
         "country": "",
