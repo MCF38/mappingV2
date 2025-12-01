@@ -2588,7 +2588,7 @@
         "code": 456,
         "code_ohme_id": 2251799853008657,
         "name": "Brieuc RAYMOND",
-        "position": "5.8420833,45.2878816",
+        "position": "5.836687,45.302409",
         "adresse": "Route du Col du Coq - Le Baure 38660  ST PANCRASSE",
         "cp": "",
         "city": "",
@@ -3802,34 +3802,10 @@
         "prestation": []
     },
     {
-        "code": 671,
-        "code_ohme_id": 2251799853008749,
-        "name": "MASI Simon",
-        "position": "6.6672355,45.5661253",
-        "adresse": "39 Allée de Combozel - La Côte d’Aime 73210  LA PLAGNE TARENTAISE",
-        "cp": "",
-        "city": "",
-        "tel": "06 76 90 98 29",
-        "email": "simon.masi38@gmail.com",
-        "site_internet": "http:\/\/www.simonmasi.com - https:\/\/www.facebook.com\/masi.simon\/?ref=hl -https:\/\/www.instagram.com\/simon.masi\/",
-        "country": "France",
-        "ecole": false,
-        "discipline": [
-            "VTT",
-            "VTT Électrique",
-            "VTT Enduro"
-        ],
-        "prestation": [
-            "Cours particuliers",
-            "Formation",
-            "Stage"
-        ]
-    },
-    {
         "code": 672,
         "code_ohme_id": 2251799853008750,
         "name": "Xavier CHABANNE",
-        "position": "1.9860103,42.4959802",
+        "position": "1.986249,42.4959495",
         "adresse": "La GRIOLE - Camping Gites et Activités Nature - 39 route de l'Andorre 66120  TARGASONNE",
         "cp": "",
         "city": "",
@@ -6228,8 +6204,8 @@
         "code": 1025,
         "code_ohme_id": 2251799853008922,
         "name": "Gregory MAILLOT",
-        "position": "55.4484856,-20.8784675",
-        "adresse": "97 Rue Léopold Rambaud 97490 Saint-Denis, France",
+        "position": "55.2882341,-21.1078403",
+        "adresse": "75 CHEMIN GABRIEL MAREUIL 97426 TROIS BASSSINS, France",
         "cp": "",
         "city": "",
         "tel": "06 92 40 76 08",
@@ -11675,7 +11651,7 @@
         "code_ohme_id": 2251799853009308,
         "name": "Timothee THEAUX",
         "position": "6.579113,45.298067",
-        "adresse": "les pionniers B44 73440  VAL THORENS",
+        "adresse": "Résidence Les Pionniers, 339 Grande rue, 73440 Val Thorens, France",
         "cp": "",
         "city": "",
         "tel": "06 66 26 35 51",
@@ -12279,8 +12255,8 @@
         "code": 1639,
         "code_ohme_id": 2251799853009345,
         "name": "Christophe SAINT-AUBIN",
-        "position": "6.7725874,45.6211805",
-        "adresse": "Res le Rochefort - Bat C - 23, 115 avenue du stade, 73700 BOURG SAINT MAURICE, France",
+        "position": "6.7686225,45.6132375",
+        "adresse": "200 RUE DES DIABLES BLEUS - LE CARRE ALPIN - D1 401 - 73700 BOURG SAINT-MAURICE",
         "cp": "",
         "city": "",
         "tel": "06 13 67 29 74",
@@ -17237,7 +17213,7 @@
         "code": 2033,
         "code_ohme_id": 2251799853009678,
         "name": "Robin ANTOINE",
-        "position": "6.927618,44.793991",
+        "position": "6.9268815,44.7941854",
         "adresse": "Hlm le village 05460  ABRIÈS",
         "cp": "",
         "city": "",
@@ -17362,6 +17338,7 @@
         "ecole": false,
         "discipline": [
             "Gravel",
+            "Mobilité\/Remise en selle",
             "Route"
         ],
         "prestation": []
@@ -17392,7 +17369,7 @@
         "city": "",
         "tel": "06 78 60 94 56",
         "email": "contact@roule2source.fr",
-        "site_internet": "https:\/\/contactroule2sourc.wixsite.com\/roule2source",
+        "site_internet": "https:\/\/www.roule2source.fr\/",
         "country": "France",
         "ecole": false,
         "discipline": [
@@ -17714,13 +17691,19 @@
         "city": "",
         "tel": "06 38 70 66 52",
         "email": "thomas.soevent@gmail.com",
-        "site_internet": "https:\/\/www.facebook.com\/thomas.drape - https:\/\/www.instagram.com\/thomasdrape\/",
+        "site_internet": "https:\/\/www.sportoutdoorevent.com",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Gravel",
+            "Mobilité\/Remise en selle",
+            "Route",
+            "VTT"
+        ],
         "prestation": [
             "Randonnée\/Balade",
             "Séminaire",
+            "Stage",
             "Voyage à vélo"
         ]
     },
@@ -17987,7 +17970,7 @@
     {
         "code": 2110,
         "code_ohme_id": 2251799853009741,
-        "name": "Olivier DRUILHE",
+        "name": "DRUILHE Olivier RDV CYCLES & CONNECT",
         "position": "3.3119301,43.7230507",
         "adresse": "10 Lotissement les Camélias 34700  LODÈVE",
         "cp": "",
@@ -18005,7 +17988,12 @@
             "VTT Électrique",
             "VTT Enduro"
         ],
-        "prestation": []
+        "prestation": [
+            "Cours particuliers",
+            "Randonnée\/Balade",
+            "Séminaire",
+            "Stage"
+        ]
     },
     {
         "code": 2112,
@@ -18875,8 +18863,19 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Gravel",
+            "Mobilité\/Remise en selle",
+            "Route",
+            "VTT",
+            "VTT Électrique"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Formation",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 2175,
@@ -20697,7 +20696,7 @@
         "city": "",
         "tel": "06 77 55 22 27",
         "email": "ventouxbikeexperience84@gmail.com",
-        "site_internet": "",
+        "site_internet": "https:\/\/www.ventoux-bike-experience.fr",
         "country": "France",
         "ecole": false,
         "discipline": [
@@ -22749,6 +22748,22 @@
         "prestation": []
     },
     {
+        "code": 2837,
+        "code_ohme_id": 2251799897002613,
+        "name": "Guillaume ARRIGHI",
+        "position": "5.306821,43.537475",
+        "adresse": "12 impasse de la plaine du BAN",
+        "cp": "13122",
+        "city": "VENTABREN",
+        "tel": "06 87 27 62 73",
+        "email": "garrighi@live.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
+    },
+    {
         "code": 1,
         "code_ohme_id": 2251799851002585,
         "name": "Ecole MCF des Gêts",
@@ -23248,7 +23263,7 @@
         "code": 37,
         "code_ohme_id": 2251799851002621,
         "name": "Ecole MCF Mézenc Loire Sauvage",
-        "position": "4.2879824,45.0258371",
+        "position": "4.288524,45.025645",
         "adresse": "La Grange",
         "cp": "43400",
         "city": "LE CHAMBON SUR LIGNON",
