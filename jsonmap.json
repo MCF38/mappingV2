@@ -3478,7 +3478,7 @@
     {
         "code": 622,
         "code_ohme_id": 2251799853008727,
-        "name": "Ludwig DAGOREAU",
+        "name": "DAGOREAU LUDWIG VELOVITAMINE",
         "position": "4.6385165,47.3621278",
         "adresse": "4 rue Clerc 21350  AVOSNES",
         "cp": "",
@@ -3488,8 +3488,18 @@
         "site_internet": "https:\/\/velovitamine.fr - https:\/\/fr-fr.facebook.com\/velovitamine\/",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "BMX",
+            "Mobilité\/Remise en selle",
+            "VTT",
+            "VTT Descente",
+            "VTT Électrique"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Randonnée\/Balade",
+            "Séminaire"
+        ]
     },
     {
         "code": 629,
@@ -13968,7 +13978,7 @@
         "code": 1781,
         "code_ohme_id": 2251799853009463,
         "name": "Teddy BERTRAND",
-        "position": "4.325688,44.541462",
+        "position": "4.3257718,44.5414608",
         "adresse": "130 route du Fez 07110  VINEZAC",
         "cp": "",
         "city": "",
@@ -16462,7 +16472,7 @@
         "code": 1976,
         "code_ohme_id": 2251799853009631,
         "name": "MB'ike PROGRESS ",
-        "position": "3.687649,49.514634",
+        "position": "5.9186099,45.0993627",
         "adresse": "27 chemin des vauxbrésils\t02860\tCHÉRÊT",
         "cp": "",
         "city": "",
@@ -20182,7 +20192,7 @@
         "code": 2267,
         "code_ohme_id": 1125899957043218,
         "name": "DISSANE Florian - FloVélo",
-        "position": "2.1379023,44.0141491",
+        "position": "1.9881527,43.9264401",
         "adresse": "Albi - Cap Découverte",
         "cp": "",
         "city": "",
@@ -22616,11 +22626,11 @@
     {
         "code": 2815,
         "code_ohme_id": 2251799892005045,
-        "name": "laguidoline",
-        "position": "7.2541948,43.7061707",
-        "adresse": "39 AVENUE BUENOS AYRES",
-        "cp": "06000",
-        "city": "NICE",
+        "name": "Jérôme Rosello - laguidoline",
+        "position": "7.2655896,43.6960355",
+        "adresse": "06000 Nice",
+        "cp": "",
+        "city": "",
         "tel": "06 37 29 97 94",
         "email": "jerome@laguidoline.fr",
         "site_internet": "https:\/\/www.laguidoline.fr",
@@ -22751,7 +22761,7 @@
         "code": 500,
         "code_ohme_id": 2251799895000457,
         "name": "Christophe CUOQ",
-        "position": "5.068833,44.749148",
+        "position": "5.0688351,44.7491622",
         "adresse": "90 Impasse Tramelas",
         "cp": "26400",
         "city": "COBONNE",
