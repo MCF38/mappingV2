@@ -2091,8 +2091,8 @@
         "code": 365,
         "code_ohme_id": 2251799853008619,
         "name": "Dominique CADENAT",
-        "position": "3.1972652,43.4970623",
-        "adresse": "La Grange du Cade - Prés st Martin d'Agel 34480  MAGALAS",
+        "position": "2.425984,42.866261",
+        "adresse": "Hameau La Pauze  ",
         "cp": "",
         "city": "",
         "tel": "06 70 77 53 22",
@@ -2100,8 +2100,16 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "FatBike",
+            "VTT",
+            "VTT Électrique"
+        ],
+        "prestation": [
+            "Format Club",
+            "Randonnée\/Balade",
+            "Stage"
+        ]
     },
     {
         "code": 368,
@@ -2154,7 +2162,12 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
+        "discipline": [
+            "Route",
+            "VTT",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
         "prestation": [
             "Cours particuliers",
             "Format Club",
@@ -3118,7 +3131,7 @@
         "code": 568,
         "code_ohme_id": 2251799853008699,
         "name": "SPITERI David - Team Evasion",
-        "position": "5.5878086,43.3207482",
+        "position": "7.419722,43.734286",
         "adresse": "2380 RN 96 quartier de la condamine",
         "cp": "",
         "city": "",
@@ -4494,7 +4507,7 @@
         "code": 750,
         "code_ohme_id": 2251799853008790,
         "name": "Yannick VENTOSE",
-        "position": "6.3169357,46.0706086",
+        "position": "6.3168822,46.0705582",
         "adresse": "121 Rue des Marmotaines 74800  LA ROCHE SUR FORON",
         "cp": "",
         "city": "",
@@ -5212,7 +5225,7 @@
         "code": 849,
         "code_ohme_id": 2251799853008840,
         "name": "Tony PORTANIER",
-        "position": "6.643915,45.422283",
+        "position": "6.6435913,45.422313",
         "adresse": "Impasse cote chalet 64 73120 OURCHEVEL",
         "cp": "",
         "city": "",
@@ -5496,7 +5509,7 @@
     {
         "code": 914,
         "code_ohme_id": 2251799853008869,
-        "name": "Sebastien TOUCAS",
+        "name": "TOUCAS - Sébastien - STCF",
         "position": "6.1307242,43.1158579",
         "adresse": "11 Avenue du 8 mai - Place Th. Lefebvre - Le Vendôme Bat B 83400  HYERES LES PALMIERS",
         "cp": "",
@@ -5507,9 +5520,16 @@
         "country": "France",
         "ecole": false,
         "discipline": [
-            "BMX"
+            "BMX",
+            "VTT",
+            "VTT Descente"
         ],
-        "prestation": []
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Formation",
+            "Stage"
+        ]
     },
     {
         "code": 916,
@@ -6190,8 +6210,8 @@
         "code": 1015,
         "code_ohme_id": 2251799853008919,
         "name": "GERMAIN Gregoire - 1001sentiers",
-        "position": "7.0242707,43.6767295",
-        "adresse": "1001sentiers, 7 Chemin de la Pinède, 06650 Le Rouret, France",
+        "position": "7.0390904,43.6794211",
+        "adresse": "1001sentiers, 06330 Roquefort-les-Pins, France",
         "cp": "",
         "city": "",
         "tel": "06 03 82 78 57",
@@ -6418,7 +6438,7 @@
         "code_ohme_id": 2251799853008933,
         "name": "DUGARDIN Nicolas - Bike School Evolution",
         "position": "5.7879305,45.1799622",
-        "adresse": "2 avenue Henri Duhamel 38610 GIERES \/ Isère & Savoie",
+        "adresse": "2 avenue Henri Duhamel 38610 GIERES",
         "cp": "",
         "city": "",
         "tel": "06 70 52 10 77",
@@ -9217,7 +9237,7 @@
         "code": 1367,
         "code_ohme_id": 2251799853009136,
         "name": "Julien SANSARNY",
-        "position": "6.139022,44.557778",
+        "position": "6.138412,44.55676",
         "adresse": "Hameau de la Moutouse 05000  RAMBAUD",
         "cp": "",
         "city": "",
@@ -9233,7 +9253,7 @@
         "code": 1368,
         "code_ohme_id": 2251799853009137,
         "name": "Sébastien PENAGOS",
-        "position": "6.4389954,45.4643552",
+        "position": "6.4551745,45.4657999",
         "adresse": "Chalet Lucie - Hameau Fontaine 73260  VALMOREL",
         "cp": "",
         "city": "",
@@ -10327,7 +10347,7 @@
         "code": 1464,
         "code_ohme_id": 2251799853009211,
         "name": "jerome",
-        "position": "1.4266998,43.5937289",
+        "position": "0.613969,42.969728",
         "adresse": "5 impasse Aristide Pillat",
         "cp": "",
         "city": "",
@@ -11810,7 +11830,8 @@
             "VTT Électrique"
         ],
         "prestation": [
-            "Randonnée\/Balade"
+            "Randonnée\/Balade",
+            "Voyage à vélo"
         ]
     },
     {
@@ -12866,7 +12887,7 @@
         "code": 1694,
         "code_ohme_id": 2251799853009389,
         "name": "Maxime GIRAUD",
-        "position": "6.281262,44.5540665",
+        "position": "6.2812636,44.5540663",
         "adresse": "9 Lot. les Vignes de la Chaup, 05230 Chorges, France",
         "cp": "",
         "city": "",
@@ -16472,7 +16493,7 @@
         "code": 1976,
         "code_ohme_id": 2251799853009631,
         "name": "MB'ike PROGRESS ",
-        "position": "5.9186099,45.0993627",
+        "position": "3.687649,49.514634",
         "adresse": "27 chemin des vauxbrésils\t02860\tCHÉRÊT",
         "cp": "",
         "city": "",
@@ -17148,7 +17169,7 @@
         "code": 2026,
         "code_ohme_id": 2251799853009672,
         "name": "Kiston Kevin Montagne Bike Guiding ",
-        "position": "6.5163779,44.135912",
+        "position": "6.5176701,44.1357104",
         "adresse": "Hameau de La Valette 04170  THORAME-BASSE",
         "cp": "",
         "city": "",
@@ -20537,17 +20558,24 @@
         "code": 2370,
         "code_ohme_id": 2251799861144300,
         "name": "AING PLOUZENNEC Devie - HAPPY CYCLING",
-        "position": "2.3372582,48.8108646",
-        "adresse": "67 rue Ernest Renan 94110 Arcueil",
-        "cp": "94110",
-        "city": "Arcueil",
+        "position": "2.3293052,48.8690758",
+        "adresse": "12 RUE DES CAPUCINES",
+        "cp": "",
+        "city": "",
         "tel": "06 42 03 25 04",
         "email": "devplou@gmail.com",
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Mobilité\/Remise en selle"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Formation",
+            "Randonnée\/Balade",
+            "Stage"
+        ]
     },
     {
         "code": 2372,
