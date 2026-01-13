@@ -2417,7 +2417,7 @@
         "code": 418,
         "code_ohme_id": 2251799853008642,
         "name": "Serge MARMER",
-        "position": "0.377581,42.966954",
+        "position": "0.3767406,42.971613",
         "adresse": "Res les chapelets ; bat 1; entrée 1; porte n°8 65410  SARRANCOLIN",
         "cp": "",
         "city": "",
@@ -3131,7 +3131,7 @@
         "code": 568,
         "code_ohme_id": 2251799853008699,
         "name": "SPITERI David - Team Evasion",
-        "position": "7.419722,43.734286",
+        "position": "2.213749,46.227638",
         "adresse": "2380 RN 96 quartier de la condamine",
         "cp": "",
         "city": "",
@@ -5236,7 +5236,7 @@
         "code": 849,
         "code_ohme_id": 2251799853008840,
         "name": "Tony PORTANIER",
-        "position": "6.643915,45.422283",
+        "position": "6.6435913,45.422313",
         "adresse": "Impasse cote chalet 64 73120 OURCHEVEL",
         "cp": "",
         "city": "",
@@ -7010,7 +7010,7 @@
         "code": 2249,
         "code_ohme_id": 2251799853008975,
         "name": "Arthur ESSLINGER",
-        "position": "7.1766603,47.8067948",
+        "position": "7.1798269,47.8226236",
         "adresse": "7 rue des prés 68700 UFFHOLTZ",
         "cp": "",
         "city": "",
@@ -7258,8 +7258,7 @@
         "discipline": [
             "BMX",
             "Mobilité\/Remise en selle",
-            "VTT",
-            "VTT Descente"
+            "VTT"
         ],
         "prestation": [
             "Cours particuliers",
@@ -12768,9 +12767,7 @@
         "discipline": [
             "Trial",
             "VTT",
-            "VTT Descente",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": [
             "Cours particuliers",
@@ -16285,7 +16282,7 @@
         "code": 1964,
         "code_ohme_id": 2251799853009619,
         "name": "JALBAUD Aymeric",
-        "position": "6.428018,45.9072342",
+        "position": "6.421598,45.905712",
         "adresse": "La Clusaz",
         "cp": "",
         "city": "",
@@ -18041,8 +18038,7 @@
             "Mobilité\/Remise en selle",
             "Route",
             "VTT",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": [
             "Cours particuliers",
@@ -20264,7 +20260,7 @@
         "code": 2269,
         "code_ohme_id": 1125899957043220,
         "name": "CHAVAS Pascal - Road Camp",
-        "position": "6.428018,45.9072342",
+        "position": "6.421598,45.905712",
         "adresse": "La Clusaz",
         "cp": "",
         "city": "",
@@ -20834,8 +20830,7 @@
             "Gravel",
             "Route",
             "VTT",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": [
             "Cours particuliers",
@@ -22112,9 +22107,7 @@
             "Mobilité\/Remise en selle",
             "Route",
             "VTT",
-            "VTT Descente",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": []
     },
@@ -22430,8 +22423,7 @@
             "Gravel",
             "Mobilité\/Remise en selle",
             "VTT",
-            "VTT Électrique",
-            "VTT Enduro"
+            "VTT Électrique"
         ],
         "prestation": [
             "Cours particuliers",
@@ -22938,7 +22930,7 @@
         "code": 2851,
         "code_ohme_id": 1125899998021864,
         "name": "Martin MICOL",
-        "position": "6.428018,45.9072342",
+        "position": "6.421598,45.905712",
         "adresse": "LA CLUSAZ",
         "cp": "",
         "city": "",
@@ -22969,18 +22961,31 @@
     {
         "code": 2858,
         "code_ohme_id": 1125899999049465,
-        "name": "Louis BILLOT",
-        "position": "5.8018411,46.8997378",
-        "adresse": "1 rue des chardonnerets",
-        "cp": "39600",
-        "city": "Mesnay",
+        "name": "Billot Louis",
+        "position": "5.794811,46.902119",
+        "adresse": "Bourg Saint Maurice ",
+        "cp": "",
+        "city": "",
         "tel": "06 33 88 79 93",
         "email": "louisb39@icloud.com",
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Gravel",
+            "Route",
+            "VTT",
+            "VTT Descente",
+            "VTT Électrique",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Randonnée\/Balade",
+            "Stage",
+            "Voyage à vélo"
+        ]
     },
     {
         "code": 1,
@@ -23034,7 +23039,7 @@
         "code": 4,
         "code_ohme_id": 2251799851002588,
         "name": "Ecole MCF de Méribel",
-        "position": "6.5664916,45.3971861",
+        "position": "6.5651736,45.3968826",
         "adresse": "Sport Boutique , place de l’Office de Tourisme",
         "cp": "73550",
         "city": "MERIBEL",
