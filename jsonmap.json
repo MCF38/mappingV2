@@ -341,7 +341,7 @@
         "code": 49,
         "code_ohme_id": 2251799853008492,
         "name": "Loisirs loc vtt",
-        "position": "2.5674548,44.3415573",
+        "position": "2.4649156,44.3223184",
         "adresse": "20 Route de l'Aveyron - Ampiac 12510  DRUELLE-BALSAC",
         "cp": "",
         "city": "",
@@ -2417,7 +2417,7 @@
         "code": 418,
         "code_ohme_id": 2251799853008642,
         "name": "Serge MARMER",
-        "position": "0.3767406,42.971613",
+        "position": "0.377581,42.966954",
         "adresse": "Res les chapelets ; bat 1; entrée 1; porte n°8 65410  SARRANCOLIN",
         "cp": "",
         "city": "",
@@ -2449,7 +2449,7 @@
         "code": 431,
         "code_ohme_id": 2251799853008644,
         "name": "CALVIN Cyril - Bike & Mecanic",
-        "position": "5.5265498,43.6949604",
+        "position": "5.5270547,43.6954692",
         "adresse": "1010 Route de la Bastidonne, Domaine de Garance Maison 23, 84120  PERTUIS",
         "cp": "",
         "city": "",
@@ -2951,7 +2951,7 @@
         "code": 530,
         "code_ohme_id": 2251799853008684,
         "name": "Sebastien OPPIN",
-        "position": "4.097183,47.277318",
+        "position": "4.096089,47.276963",
         "adresse": "Les Petites Fourches 58230 Saint-Brisson, France",
         "cp": "",
         "city": "",
@@ -3131,7 +3131,7 @@
         "code": 568,
         "code_ohme_id": 2251799853008699,
         "name": "SPITERI David - Team Evasion",
-        "position": "2.213749,46.227638",
+        "position": "7.419722,43.734286",
         "adresse": "2380 RN 96 quartier de la condamine",
         "cp": "",
         "city": "",
@@ -9798,7 +9798,7 @@
         "code": 1416,
         "code_ohme_id": 2251799853009174,
         "name": "MARTOIA Antoine",
-        "position": "6.4971858,44.5656215",
+        "position": "6.4981612,44.5665433",
         "adresse": "2 rue les coquelicots - bâtiment les coquelicots 05200  EMBRUN",
         "cp": "",
         "city": "",
@@ -10357,7 +10357,7 @@
         "code": 1464,
         "code_ohme_id": 2251799853009211,
         "name": "jerome",
-        "position": "0.613969,42.969728",
+        "position": "1.4266998,43.5937289",
         "adresse": "5 impasse Aristide Pillat",
         "cp": "",
         "city": "",
@@ -10822,7 +10822,8 @@
         "prestation": [
             "Cours particuliers",
             "Format Club",
-            "Formation"
+            "Formation",
+            "Stage"
         ]
     },
     {
@@ -14287,7 +14288,7 @@
         "code": 1807,
         "code_ohme_id": 2251799853009487,
         "name": "BRUNELLO Mickaël - Mickaël Brunello Coaching",
-        "position": "5.0532959,43.369118",
+        "position": "5.053728,43.404811",
         "adresse": "584 E Les Réveillés Sud Saint-Pierre 13500  MARTIGUES",
         "cp": "",
         "city": "",
@@ -15435,7 +15436,7 @@
     {
         "code": 1909,
         "code_ohme_id": 2251799853009569,
-        "name": "Frances JONES",
+        "name": "JONES Fran",
         "position": "1.4079249,43.4920612",
         "adresse": "8 Impasse Louis Casteras 31860  PINS-JUSTARET",
         "cp": "",
@@ -15445,8 +15446,15 @@
         "site_internet": "",
         "country": "France",
         "ecole": false,
-        "discipline": [],
-        "prestation": []
+        "discipline": [
+            "Mobilité\/Remise en selle",
+            "VTT"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Randonnée\/Balade"
+        ]
     },
     {
         "code": 1911,
@@ -17096,6 +17104,32 @@
         ]
     },
     {
+        "code": 2018,
+        "code_ohme_id": 2251799853009666,
+        "name": "GONSOLIN Bastien",
+        "position": "6.1040956,44.6936529",
+        "adresse": "234 route des Pelloux - Les Pelloux 05500  SAINT-BONNET-EN-CHAMPSAUR",
+        "cp": "",
+        "city": "",
+        "tel": "06 23 38 50 84",
+        "email": "bastien.gonsolin@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [
+            "Trial",
+            "VTT",
+            "VTT Descente",
+            "VTT Enduro"
+        ],
+        "prestation": [
+            "Cours particuliers",
+            "Format Club",
+            "Randonnée\/Balade",
+            "Stage"
+        ]
+    },
+    {
         "code": 2021,
         "code_ohme_id": 2251799853009668,
         "name": "Xavier RAUZY",
@@ -17872,7 +17906,10 @@
             "VTT Descente",
             "VTT Enduro"
         ],
-        "prestation": []
+        "prestation": [
+            "Cours particuliers",
+            "Stage"
+        ]
     },
     {
         "code": 2099,
@@ -20958,7 +20995,7 @@
         "code": 2494,
         "code_ohme_id": 1125899964340504,
         "name": "Brenon Louis IORE Bike concept",
-        "position": "-1.4287816,46.6809588",
+        "position": "-1.4180749,46.6714317",
         "adresse": "La Roche sur Yon",
         "cp": "",
         "city": "",
@@ -22015,7 +22052,7 @@
         "code": 2580,
         "code_ohme_id": 2251799875049779,
         "name": "Hugo GESLIN",
-        "position": "5.7998095,45.1758393",
+        "position": "5.7928205,45.1825842",
         "adresse": "Gières",
         "cp": "",
         "city": "",
@@ -22986,6 +23023,22 @@
             "Stage",
             "Voyage à vélo"
         ]
+    },
+    {
+        "code": 2860,
+        "code_ohme_id": 1125900000027202,
+        "name": "Quentin MORIEN",
+        "position": "3.8488908,43.6949315",
+        "adresse": "515 rue du ravin d'embarre",
+        "cp": "34980",
+        "city": "St Clement de Riviere",
+        "tel": "06 21 49 87 53",
+        "email": "morien.quentin@gmail.com",
+        "site_internet": "",
+        "country": "France",
+        "ecole": false,
+        "discipline": [],
+        "prestation": []
     },
     {
         "code": 1,
